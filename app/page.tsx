@@ -16,7 +16,7 @@ export default function Home() {
       <JsonLd data={organizationSchema()} />
       <section className="mx-auto flex min-h-[72vh] max-w-5xl flex-col items-center justify-center px-5 py-20 text-center">
         <p className="font-mono text-xs font-semibold tracking-[0.32em] text-accent-strong uppercase">
-          Gas fee research, without the noise
+          Understand gas fees before you transact
         </p>
         <h1 className="mt-6 max-w-4xl text-5xl font-semibold tracking-[-0.06em] text-foreground md:text-7xl">
           Search crypto gas fees before you spend them.
