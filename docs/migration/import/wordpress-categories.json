@@ -1,0 +1,803 @@
+[
+  {
+    "id": 231,
+    "count": 4,
+    "description": "Acala Network is a decentralized finance (DeFi) platform and liquidity hub within the Polkadot ecosystem. As a parachain of the Polkadot Relay chain, Acala benefits from the network security and consensus mechanisms provided by Polkadot's Validator set.",
+    "link": "https://gasfees.org/category/gas-fees/acala/",
+    "name": "Acala",
+    "slug": "acala",
+    "parent": 516
+  },
+  {
+    "id": 248,
+    "count": 1,
+    "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"react-scroll-to-bottom--css-opmop-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-opmop-1n7m0yu\">\r\n<div class=\"flex flex-col pb-9 text-sm\">\r\n<div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-13\">\r\n<div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\">\r\n<div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion\">\r\n<div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"a982e0cd-de9f-4549-86f1-f62fdd21b270\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\r\n\r\nIn the realm of Alvey, understanding gas fees is crucial. Alvey Gas Fees represent the cost associated with transactions on the Alvey blockchain network. In this comprehensive guide, we'll delve deep into the intricacies of Alvey Gas Fees, explaining what they are, how they work, and why they matter within the Alvey ecosystem.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>",
+    "link": "https://gasfees.org/category/gas-fees/alvey/",
+    "name": "Alvey",
+    "slug": "alvey",
+    "parent": 516
+  },
+  {
+    "id": 56,
+    "count": 3,
+    "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"react-scroll-to-bottom--css-dkiss-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-dkiss-1n7m0yu\">\r\n<div class=\"flex flex-col pb-9 text-sm\">\r\n<div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-51\">\r\n<div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\">\r\n<div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl group final-completion\">\r\n<div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"5fc58dd8-144a-4b5e-b41e-59eb2dd18297\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\r\n\r\nExplore the diverse world of Aptos, a vibrant category encompassing a wide range of topics and interests. From technology and real estate to lifestyle and travel, discover valuable insights, tips, and information that cater to your specific interests and needs.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"mt-1 flex justify-start gap-3 empty:hidden\">\r\n<div class=\"text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 gap-1 visible\">\r\n<div class=\"flex gap-1\"></div>\r\n<div class=\"flex items-center gap-1.5 text-xs\"></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]\">\r\n<div class=\"relative flex h-full flex-1 items-stretch md:flex-col\">\r\n<div class=\"flex w-full items-center\"></div>\r\n</div>\r\n</div>",
+    "link": "https://gasfees.org/category/gas-fees/aptos/",
+    "name": "Aptos",
+    "slug": "aptos",
+    "parent": 516
+  },
+  {
+    "id": 11,
+    "count": 1,
+    "description": "Arbitrum gas fees are linked to the Arbitrum Layer 2 scaling solution for Ethereum. Arbitrum aims to alleviate Ethereum's congestion and high fees by offering a more scalable and cost-efficient environment for Ethereum-based applications.",
+    "link": "https://gasfees.org/category/gas-fees/arbitrum/",
+    "name": "Arbitrum",
+    "slug": "arbitrum",
+    "parent": 516
+  },
+  {
+    "id": 217,
+    "count": 1,
+    "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"react-scroll-to-bottom--css-cvjko-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-cvjko-1n7m0yu\">\r\n<div class=\"flex flex-col pb-9 text-sm\">\r\n<div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-15\">\r\n<div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\">\r\n<div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion\">\r\n<div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"a2127660-5822-4987-9939-a3fdf78e575f\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\r\n\r\n<strong>Arbitrum Nova Blockchain</strong>: Arbitrum Nova is a Layer 2 scaling solution for Ethereum, designed to enhance the Ethereum ecosystem by significantly reducing transaction fees and increasing transaction throughput. It achieves this by providing a more efficient and cost-effective way to execute smart contracts and decentralized applications (DApps) on the Ethereum network.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"mt-1 flex justify-start gap-3 empty:hidden\">\r\n<div class=\"text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 gap-1 visible\">\r\n<div class=\"flex gap-1\"></div>\r\n<div class=\"flex items-center gap-1.5 text-xs\"></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]\">\r\n<div class=\"relative flex h-full flex-1 items-stretch md:flex-col\">\r\n<div class=\"flex w-full items-center\"></div>\r\n</div>\r\n</div>",
+    "link": "https://gasfees.org/category/gas-fees/arbitrum-nova/",
+    "name": "Arbitrum Nova",
+    "slug": "arbitrum-nova",
+    "parent": 516
+  },
+  {
+    "id": 209,
+    "count": 1,
+    "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"react-scroll-to-bottom--css-cvjko-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-cvjko-1n7m0yu\">\r\n<div class=\"flex flex-col pb-9 text-sm\">\r\n<div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-19\">\r\n<div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\">\r\n<div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion\">\r\n<div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"9e22464c-dcfb-4954-a83d-cc821a3fce4f\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\r\n\r\n<strong>Astar</strong>: Astar is an innovative Layer 1 blockchain platform that is part of the Polkadot ecosystem. It is designed to provide a robust and versatile foundation for decentralized applications (DApps) and blockchain projects. Astar offers a unique combination of features, including high performance, scalability, and interoperability with other blockchains in the Polkadot network.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"mt-1 flex justify-start gap-3 empty:hidden\">\r\n<div class=\"text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 gap-1 visible\">\r\n<div class=\"flex gap-1\"></div>\r\n<div class=\"flex items-center gap-1.5 text-xs\"></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]\">\r\n<div class=\"relative flex h-full flex-1 items-stretch md:flex-col\">\r\n<div class=\"flex w-full items-center\"></div>\r\n</div>\r\n</div>",
+    "link": "https://gasfees.org/category/gas-fees/astar/",
+    "name": "Astar",
+    "slug": "astar",
+    "parent": 516
+  },
+  {
+    "id": 61,
+    "count": 1,
+    "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"react-scroll-to-bottom--css-dkiss-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-dkiss-1n7m0yu\">\r\n<div class=\"flex flex-col pb-9 text-sm\">\r\n<div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-61\">\r\n<div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\">\r\n<div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl group final-completion\">\r\n<div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"78edb79e-6a4b-42e6-aa98-0f53f5794168\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\r\n\r\nDive into the world of Aurora blockchain and discover its unique features and applications. Stay informed about the latest developments and trends in decentralized technology within the Aurora ecosystem. Explore the future of blockchain innovation with Aurora.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"mt-1 flex justify-start gap-3 empty:hidden\">\r\n<div class=\"text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 gap-1 visible\">\r\n<div class=\"flex gap-1\"></div>\r\n<div class=\"flex items-center gap-1.5 text-xs\"></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]\">\r\n<div class=\"relative flex h-full flex-1 items-stretch md:flex-col\">\r\n<div class=\"flex w-full items-center\"></div>\r\n</div>\r\n</div>",
+    "link": "https://gasfees.org/category/aurora/",
+    "name": "Aurora",
+    "slug": "aurora",
+    "parent": 0
+  },
+  {
+    "id": 7,
+    "count": 1,
+    "description": "Avalanche gas fees represent the transaction charges on the Avalanche blockchain. With its unique consensus mechanism enabling high throughput and minimal fees, Avalanche is a favored platform for decentralized applications and financial transactions, offering cost-effective options for users.",
+    "link": "https://gasfees.org/category/gas-fees/avalanche/",
+    "name": "Avalanche",
+    "slug": "avalanche",
+    "parent": 516
+  },
+  {
+    "id": 211,
+    "count": 1,
+    "description": "Avalanche DFK represents a subnetwork within the Avalanche blockchain, potentially tailored to specific use cases or applications.",
+    "link": "https://gasfees.org/category/avalanche-dfk/",
+    "name": "Avalanche DFK",
+    "slug": "avalanche-dfk",
+    "parent": 0
+  },
+  {
+    "id": 13,
+    "count": 1,
+    "description": "Base gas fees typically represent the minimum transaction charges required to process a transaction on a blockchain network. These fees can differ between blockchain platforms and may adjust dynamically based on network conditions.",
+    "link": "https://gasfees.org/category/base/",
+    "name": "Base",
+    "slug": "base",
+    "parent": 0
+  },
+  {
+    "id": 5,
+    "count": 1,
+    "description": "Binance gas fees encompass the charges incurred when trading or transferring cryptocurrencies on the Binance exchange. Typically paid in the cryptocurrency being traded, these fees vary depending on factors like trading volume and transaction type. Binance provides a transparent fee structure to help users accurately calculate their costs.",
+    "link": "https://gasfees.org/category/binance/",
+    "name": "Binance",
+    "slug": "binance",
+    "parent": 0
+  },
+  {
+    "id": 214,
+    "count": 1,
+    "description": "<strong>Bitcoin</strong>: Bitcoin is the pioneering and most well-known cryptocurrency in the world, created by an anonymous entity known as Satoshi Nakamoto in 2008. It is a decentralized digital currency that operates on a global, peer-to-peer network, allowing individuals to send and receive value without the need for intermediaries like banks. Bitcoin is often referred to as \"digital gold\" due to its store of value properties, and it has gained widespread recognition as a hedge against inflation and economic instability.\r\n\r\nTransactions on the Bitcoin network are recorded on a public ledger called the blockchain, which is maintained by a network of miners who validate and secure the network. Bitcoin's supply is capped at 21 million coins, making it a deflationary asset.\r\n\r\nBitcoin has revolutionized the financial industry, sparking interest from both institutional investors and the general public. It has also paved the way for the development of thousands of other cryptocurrencies and blockchain-based projects. As a pioneer in the world of digital currencies, Bitcoin continues to shape the future of finance, offering a decentralized and censorship-resistant alternative to traditional financial systems.",
+    "link": "https://gasfees.org/category/gas-fees/bitcoin/",
+    "name": "Bitcoin",
+    "slug": "bitcoin",
+    "parent": 516
+  },
+  {
+    "id": 498,
+    "count": 1,
+    "description": "",
+    "link": "https://gasfees.org/category/bittorrent/",
+    "name": "Bittorrent",
+    "slug": "bittorrent",
+    "parent": 0
+  },
+  {
+    "id": 232,
+    "count": 1,
+    "description": "<strong>Boba</strong>: Boba is a blockchain platform designed to provide efficient, secure, and scalable solutions for decentralized applications (DApps) and smart contracts. It aims to enhance blockchain usability and accessibility, making it an attractive choice for developers and users seeking a user-friendly and versatile blockchain ecosystem.",
+    "link": "https://gasfees.org/category/boba/",
+    "name": "Boba",
+    "slug": "boba",
+    "parent": 0
+  },
+  {
+    "id": 199,
+    "count": 1,
+    "description": "Delve into the enchanting realm of Canto, where music takes center stage. Explore a diverse collection of articles, reviews, and insights that celebrate the artistry, culture, and innovation of music across genres and eras. Immerse yourself in the melodies that define our world in the Canto category.",
+    "link": "https://gasfees.org/category/canto/",
+    "name": "Canto",
+    "slug": "canto",
+    "parent": 0
+  },
+  {
+    "id": 537,
+    "count": 1,
+    "description": "",
+    "link": "https://gasfees.org/category/cardano/",
+    "name": "Cardano",
+    "slug": "cardano",
+    "parent": 0
+  },
+  {
+    "id": 62,
+    "count": 1,
+    "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"react-scroll-to-bottom--css-dkiss-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-dkiss-1n7m0yu\">\r\n<div class=\"flex flex-col pb-9 text-sm\">\r\n<div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-57\">\r\n<div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\">\r\n<div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl group final-completion\">\r\n<div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"4ec6c642-cb9a-4456-bcdd-93d807354867\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\r\n\r\nExplore the CELO blockchain and its role in financial inclusion. Stay updated on the latest developments and trends in decentralized finance.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"mt-1 flex justify-start gap-3 empty:hidden\">\r\n<div class=\"text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 gap-1 visible\">\r\n\r\n&nbsp;\r\n<div class=\"flex gap-1\"></div>\r\n<div class=\"flex items-center gap-1.5 text-xs\"></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]\">\r\n<div class=\"relative flex h-full flex-1 items-stretch md:flex-col\">\r\n<div class=\"flex w-full items-center\"></div>\r\n</div>\r\n</div>",
+    "link": "https://gasfees.org/category/celo/",
+    "name": "CELO",
+    "slug": "celo",
+    "parent": 0
+  },
+  {
+    "id": 480,
+    "count": 1,
+    "description": "",
+    "link": "https://gasfees.org/category/centrifuge/",
+    "name": "Centrifuge",
+    "slug": "centrifuge",
+    "parent": 0
+  },
+  {
+    "id": 213,
+    "count": 1,
+    "description": "<strong>Conflux</strong>: Conflux is a Layer 1 blockchain project that focuses on providing high throughput and scalability while maintaining security. It leverages its unique consensus algorithm to offer a fast and efficient platform for decentralized applications, particularly in the realm of DeFi and digital assets.",
+    "link": "https://gasfees.org/category/conflux/",
+    "name": "Conflux",
+    "slug": "conflux",
+    "parent": 0
+  },
+  {
+    "id": 197,
+    "count": 1,
+    "description": "<strong>Cosmos</strong>: Cosmos is an ecosystem of interconnected blockchains, allowing different blockchains to communicate and transact with one another. It enables interoperability between various blockchain networks, fostering a more connected and collaborative blockchain ecosystem.",
+    "link": "https://gasfees.org/category/cosmos/",
+    "name": "Cosmos",
+    "slug": "cosmos",
+    "parent": 0
+  },
+  {
+    "id": 10,
+    "count": 1,
+    "description": "Cronos gas fees represent the charges levied on the Cronos blockchain, a Layer 2 scaling solution for the Cosmos ecosystem. Cronos seeks to provide expedited and budget-friendly transactions, making it an ideal choice for developers building on the Cosmos network.",
+    "link": "https://gasfees.org/category/cronos/",
+    "name": "Cronos",
+    "slug": "cronos",
+    "parent": 0
+  },
+  {
+    "id": 533,
+    "count": 0,
+    "description": "Crypto, short for cryptocurrency, is a digital or virtual form of money powered by blockchain technology. It enables secure, decentralized transactions and serves as the backbone for innovative financial systems. From Bitcoin and Ethereum to emerging altcoins, explore the world of crypto, including market trends, investment strategies, and how it's transforming the global economy.",
+    "link": "https://gasfees.org/category/crypto/",
+    "name": "Crypto",
+    "slug": "crypto",
+    "parent": 0
+  },
+  {
+    "id": 216,
+    "count": 1,
+    "description": "<strong>Dogechain</strong>: Dogechain is the blockchain network associated with the popular cryptocurrency Dogecoin (DOGE). Known for its friendly Shiba Inu dog mascot, Dogecoin is often used for tipping and small transactions, and Dogechain records all Dogecoin transactions on its blockchain.",
+    "link": "https://gasfees.org/category/dogechain/",
+    "name": "Dogechain",
+    "slug": "dogechain",
+    "parent": 0
+  },
+  {
+    "id": 57,
+    "count": 1,
+    "description": "Discover the Elastos blockchain ecosystem and its applications. Stay informed about the latest developments and trends in decentralized technology.",
+    "link": "https://gasfees.org/category/elastos/",
+    "name": "Elastos",
+    "slug": "elastos",
+    "parent": 0
+  },
+  {
+    "id": 235,
+    "count": 1,
+    "description": "<strong>Energi</strong>: Energi is a Layer 1 blockchain platform that emphasizes energy efficiency, security, and self-funding. It offers a comprehensive ecosystem for decentralized applications, including DeFi, and has a strong focus on governance and sustainability.",
+    "link": "https://gasfees.org/category/energi/",
+    "name": "Energi",
+    "slug": "energi",
+    "parent": 0
+  },
+  {
+    "id": 1,
+    "count": 14,
+    "description": "Ethereum gas fees are the expenses associated with executing transactions and smart contracts on the Ethereum blockchain. These fees, paid in Ether (ETH), fluctuate based on network congestion and the complexity of the transaction or smart contract operation.",
+    "link": "https://gasfees.org/category/gas-fees/ethereum/",
+    "name": "Ethereum",
+    "slug": "ethereum",
+    "parent": 516
+  },
+  {
+    "id": 221,
+    "count": 1,
+    "description": "<strong>Ethereum Classic</strong>: Ethereum Classic (ETC) is a blockchain that originated as a result of a contentious hard fork in the Ethereum network. It maintains the original Ethereum blockchain's principles of immutability and decentralization, serving as a platform for decentralized applications and smart contracts.",
+    "link": "https://gasfees.org/category/ethereum-classic/",
+    "name": "Ethereum Classic",
+    "slug": "ethereum-classic",
+    "parent": 0
+  },
+  {
+    "id": 236,
+    "count": 1,
+    "description": "<strong>EthereumPOW</strong>: EthereumPOW is a term referring to the original Ethereum blockchain before its transition to a proof-of-stake (PoS) consensus mechanism with Ethereum 2.0. EthereumPOW relies on proof-of-work (PoW) to secure and validate transactions, similar to Bitcoin.",
+    "link": "https://gasfees.org/category/ethereumpow/",
+    "name": "EthereumPOW",
+    "slug": "ethereumpow",
+    "parent": 0
+  },
+  {
+    "id": 210,
+    "count": 1,
+    "description": "<strong>Evmos</strong>: Evmos is a cutting-edge Layer 1 blockchain platform within the Cosmos ecosystem. Evmos is designed to offer developers a secure and efficient environment for building decentralized applications (DApps) and blockchain solutions. What sets Evmos apart is its interoperability with other blockchains within the Cosmos network, enabling seamless communication and data transfer between different blockchain ecosystems.\r\n\r\nEvmos leverages the innovative Tendermint consensus mechanism and the Cosmos Software Development Kit (SDK) to provide a scalable and high-performance blockchain infrastructure. This makes it particularly suitable for applications in various domains, including decentralized finance (DeFi), supply chain management, identity verification, and more.\r\n\r\nWith a strong focus on security, scalability, and cross-chain compatibility, Evmos opens up new possibilities for blockchain developers and businesses looking to create interconnected and versatile applications. Its commitment to fostering an inclusive and collaborative blockchain ecosystem positions Evmos as a promising player in the blockchain industry's ongoing evolution.",
+    "link": "https://gasfees.org/category/evmos/",
+    "name": "Evmos",
+    "slug": "evmos",
+    "parent": 0
+  },
+  {
+    "id": 9,
+    "count": 1,
+    "description": "Fantom gas fees comprise the transaction costs tied to the Fantom Opera blockchain. Fantom's design prioritizes swift and cost-effective transactions, making it a versatile choice for various applications, including DeFi and NFTs.",
+    "link": "https://gasfees.org/category/fantom/",
+    "name": "Fantom",
+    "slug": "fantom",
+    "parent": 0
+  },
+  {
+    "id": 227,
+    "count": 0,
+    "description": "Filecoin: Powering Decentralized Data Storage and Retrieval\r\n\r\nThe Filecoin category delves into the dynamic universe of decentralized data storage and retrieval powered by the Filecoin network. Filecoin represents a groundbreaking shift in the way data is stored and accessed, utilizing blockchain technology to create a decentralized and secure storage ecosystem.",
+    "link": "https://gasfees.org/category/filecoin/",
+    "name": "Filecoin",
+    "slug": "filecoin",
+    "parent": 0
+  },
+  {
+    "id": 53,
+    "count": 1,
+    "description": "Explore the Flare blockchain ecosystem with insights into its latest developments, use cases, and trends. Stay informed about the future of decentralized technology.",
+    "link": "https://gasfees.org/category/flare/",
+    "name": "Flare",
+    "slug": "flare",
+    "parent": 0
+  },
+  {
+    "id": 228,
+    "count": 0,
+    "description": "<strong>Fuse</strong>: Fuse is a Layer 1 blockchain platform designed to simplify the creation and deployment of decentralized applications (DApps) and blockchain-based solutions. With a strong emphasis on usability and accessibility, Fuse offers a user-friendly environment for developers and entrepreneurs, enabling them to build, launch, and manage their DApps with ease.",
+    "link": "https://gasfees.org/category/fuse/",
+    "name": "Fuse",
+    "slug": "fuse",
+    "parent": 0
+  },
+  {
+    "id": 516,
+    "count": 26,
+    "description": "<div>Welcome to our Gas Fees hub, your go-to resource for understanding transaction costs across top blockchains.</div>",
+    "link": "https://gasfees.org/category/gas-fees/",
+    "name": "Gas Fees",
+    "slug": "gas-fees",
+    "parent": 0
+  },
+  {
+    "id": 535,
+    "count": 23,
+    "description": "Gas fees are the transaction costs required to process operations on a blockchain network. They play a crucial role in maintaining network security and efficiency. Learn how gas fees work across different blockchains, discover tips to optimize costs, and stay updated on the latest trends and tools for managing gas fees effectively.",
+    "link": "https://gasfees.org/category/gasfees/",
+    "name": "GasFees",
+    "slug": "gasfees",
+    "parent": 0
+  },
+  {
+    "id": 207,
+    "count": 0,
+    "description": "<strong>Gnosis Chain</strong>: Gnosis Chain is a Layer 1 blockchain platform that is part of the Gnosis ecosystem, known for its focus on decentralized prediction markets and decentralized finance (DeFi) solutions. Gnosis Chain is designed to offer a secure and scalable environment for building and deploying decentralized applications (DApps) and financial services.",
+    "link": "https://gasfees.org/category/gnosis-chain/",
+    "name": "Gnosis Chain",
+    "slug": "gnosis-chain",
+    "parent": 0
+  },
+  {
+    "id": 226,
+    "count": 0,
+    "description": "Goerli, a prominent testnet within the Ethereum ecosystem, plays a vital role in ensuring the compatibility and stability of Ethereum network upgrades and applications. It serves as a testing ground for developers, allowing them to experiment, validate, and refine their smart contracts and decentralized applications (DApps) in a risk-free environment.",
+    "link": "https://gasfees.org/category/goerli/",
+    "name": "Goerli",
+    "slug": "goerli",
+    "parent": 0
+  },
+  {
+    "id": 218,
+    "count": 1,
+    "description": "<strong>Harmony</strong>: Harmony is a Layer 1 blockchain platform designed to address key challenges in scalability, speed, and decentralization. It aims to provide a high-performance and secure environment for decentralized applications (DApps) and blockchain developers.\r\n\r\nOne of Harmony's standout features is its sharding technology, which enables the network to process multiple transactions in parallel, resulting in faster transaction speeds and improved scalability. This makes it well-suited for applications in various domains, including decentralized finance (DeFi), gaming, and more.\r\n\r\nHarmony also places a strong emphasis on cross-chain interoperability, allowing it to seamlessly interact with other blockchain networks and assets. This interoperability enhances its utility and potential use cases, making it a versatile platform for developers and businesses looking to build cross-chain DApps or integrate existing blockchain assets.\r\n\r\nWith its commitment to security, scalability, and interoperability, Harmony continues to contribute to the advancement of blockchain technology, offering a robust foundation for innovation and collaboration within the blockchain ecosystem.",
+    "link": "https://gasfees.org/category/harmony/",
+    "name": "Harmony",
+    "slug": "harmony",
+    "parent": 0
+  },
+  {
+    "id": 52,
+    "count": 1,
+    "description": "Discover the world of Hedera blockchain and its impact on various industries. Stay updated on the latest developments and trends in decentralized technology.",
+    "link": "https://gasfees.org/category/hedera/",
+    "name": "Hedera",
+    "slug": "hedera",
+    "parent": 0
+  },
+  {
+    "id": 203,
+    "count": 1,
+    "description": "<strong>Injective</strong>: Injective is a Layer 2 blockchain platform that focuses on decentralized finance (DeFi) and decentralized derivatives trading. It offers a secure and highly customizable environment for developers and traders to create and trade a wide range of financial products and assets.\r\n\r\nOne of Injective's standout features is its focus on decentralized derivatives, allowing users to trade a variety of assets, including cryptocurrencies, synthetic assets, and traditional financial instruments like stocks and commodities. It leverages a unique layer of infrastructure known as the \"Injective Chain\" to provide fast and efficient trading experiences.\r\n\r\nInjective is designed to be compatible with Ethereum, allowing it to benefit from Ethereum's vast ecosystem of DeFi projects and assets. This compatibility makes it easy for developers to port existing Ethereum-based applications to Injective or create new DeFi solutions that interact seamlessly with the Ethereum network.\r\n\r\nWith its commitment to decentralized finance, interoperability with Ethereum, and a wide range of financial products, Injective offers a promising platform for traders, developers, and users looking to participate in the rapidly evolving DeFi landscape and decentralized derivatives markets.",
+    "link": "https://gasfees.org/category/injective/",
+    "name": "Injective",
+    "slug": "injective",
+    "parent": 0
+  },
+  {
+    "id": 212,
+    "count": 1,
+    "description": "<strong>IoTeX</strong>: IoTeX is a Layer 1 blockchain platform that specializes in the Internet of Things (IoT) and machine-to-machine (M2M) transactions. It offers a secure and scalable infrastructure for connecting physical devices to the blockchain, enabling data transfer, automation, and smart contract execution in IoT ecosystems.\r\n\r\nIoTeX's unique architecture is designed to handle the challenges of the IoT space, such as data privacy, security, and scalability. It employs innovative technologies like lightweight cryptography and trusted execution environments to ensure the protection of sensitive data generated by IoT devices.\r\n\r\nOne of IoTeX's key features is its focus on real-world applications, making it an ideal choice for building decentralized solutions in industries such as supply chain management, healthcare, and smart cities. IoTeX's interoperability with other blockchain networks also allows it to collaborate with various ecosystems and facilitate cross-chain data sharing.\r\n\r\nWith its commitment to IoT and M2M interactions, as well as its emphasis on security and data privacy, IoTeX plays a significant role in advancing the adoption of blockchain technology in the rapidly expanding world of the Internet of Things.",
+    "link": "https://gasfees.org/category/iotex/",
+    "name": "IoTeX",
+    "slug": "iotex",
+    "parent": 0
+  },
+  {
+    "id": 482,
+    "count": 1,
+    "description": "",
+    "link": "https://gasfees.org/category/kadena/",
+    "name": "Kadena",
+    "slug": "kadena",
+    "parent": 0
+  },
+  {
+    "id": 58,
+    "count": 1,
+    "description": "Dive into the Kava blockchain ecosystem and explore its latest developments, use cases, and trends. Stay informed about the future of decentralized finance.",
+    "link": "https://gasfees.org/category/kava/",
+    "name": "Kava",
+    "slug": "kava",
+    "parent": 0
+  },
+  {
+    "id": 50,
+    "count": 1,
+    "description": "Explore the Klaytn blockchain network and gain insights into transaction costs and efficient management. Stay updated on the latest developments in blockchain technology.",
+    "link": "https://gasfees.org/category/klaytn/",
+    "name": "Klaytn",
+    "slug": "klaytn",
+    "parent": 0
+  },
+  {
+    "id": 240,
+    "count": 0,
+    "description": "<strong>Lightning Network</strong>: The Lightning Network is a Layer 2 scaling solution for the Bitcoin blockchain designed to address its scalability limitations and improve transaction speed and cost-efficiency. It operates as a second layer on top of the Bitcoin network, enabling fast and inexpensive micropayments and reducing congestion on the main blockchain.\r\n\r\nThe Lightning Network works by creating off-chain payment channels between users. These channels allow parties to transact directly with each other without the need to record every transaction on the Bitcoin blockchain. This approach significantly reduces transaction fees and confirmation times, making it ideal for small, frequent, and rapid transactions.\r\n\r\nOne of the Lightning Network's primary goals is to foster Bitcoin's use as a medium of exchange in addition to a store of value. It enables various use cases, including instant payments, streaming of microtransactions, and the development of decentralized applications (LApps) that can leverage its fast and low-cost transaction capabilities.\r\n\r\nAs a decentralized and open-source project, the Lightning Network has gained widespread adoption and support within the Bitcoin community. It continues to evolve with ongoing development and improvements, offering a promising solution to enhance the utility and efficiency of Bitcoin for everyday transactions.",
+    "link": "https://gasfees.org/category/lightning-network/",
+    "name": "Lightning Network",
+    "slug": "lightning-network",
+    "parent": 0
+  },
+  {
+    "id": 202,
+    "count": 0,
+    "description": "From the genesis block of Ethereum, Consensys was formed to be the strongest force for decentralization on the planet. We believe that through networks like Ethereum, humankind can achieve more.",
+    "link": "https://gasfees.org/category/linea/",
+    "name": "Linea",
+    "slug": "linea",
+    "parent": 0
+  },
+  {
+    "id": 237,
+    "count": 0,
+    "description": "<strong>Loop Network</strong>: Loop Network is a Layer 2 scaling solution designed to enhance the scalability and efficiency of the Ethereum blockchain. It achieves this by utilizing zkRollup technology, a zero-knowledge proof-based approach that enables faster and more cost-effective transactions while maintaining Ethereum's security features.\r\n\r\nOne of Loop Network's primary objectives is to alleviate the congestion and high gas fees often associated with the Ethereum network. It does this by aggregating multiple transactions into a single zkRollup batch, which is then confirmed on the Ethereum mainnet. This batching process significantly reduces transaction costs and improves the overall throughput of the network.\r\n\r\nLoop Network is particularly attractive to developers and users of decentralized applications (DApps) on Ethereum. It allows them to enjoy the benefits of faster confirmation times and lower fees without compromising on security or decentralization. Additionally, Loop Network is compatible with existing Ethereum smart contracts, making it a seamless and practical scaling solution for a wide range of use cases, including DeFi, NFTs, and more.\r\n\r\nWith its commitment to enhancing the Ethereum ecosystem's scalability, Loop Network plays a pivotal role in making blockchain technology more accessible and efficient for developers and users, ultimately contributing to the growth and adoption of decentralized applications on the Ethereum platform.",
+    "link": "https://gasfees.org/category/loop-network/",
+    "name": "Loop Network",
+    "slug": "loop-network",
+    "parent": 0
+  },
+  {
+    "id": 245,
+    "count": 0,
+    "description": "<strong>Loopring</strong>: Loopring is a Layer 2 scaling solution and decentralized exchange (DEX) protocol built on the Ethereum blockchain. It aims to enhance the efficiency and liquidity of decentralized trading while reducing fees and congestion. Loopring achieves this by using zkRollup technology, allowing users to trade assets directly from their wallets with minimal gas fees and maximum security.",
+    "link": "https://gasfees.org/category/loopring/",
+    "name": "Loopring",
+    "slug": "loopring",
+    "parent": 0
+  },
+  {
+    "id": 204,
+    "count": 0,
+    "description": "<strong>Manta</strong>: Manta is a blockchain platform designed to provide scalable and efficient solutions for decentralized applications (DApps) and blockchain projects. It focuses on enhancing developer productivity and simplifying the process of creating and deploying DApps. Manta aims to be a versatile and user-friendly ecosystem for blockchain innovation.",
+    "link": "https://gasfees.org/category/manta/",
+    "name": "Manta",
+    "slug": "manta",
+    "parent": 0
+  },
+  {
+    "id": 200,
+    "count": 0,
+    "description": "Explore the Mantle category for a deep dive into powerful middleware solutions that empower developers to build, innovate, and scale their applications seamlessly. Unleash the potential of your projects with Mantle's comprehensive middleware offerings.",
+    "link": "https://gasfees.org/category/mantle/",
+    "name": "Mantle",
+    "slug": "mantle",
+    "parent": 0
+  },
+  {
+    "id": 219,
+    "count": 0,
+    "description": "<strong>Meter</strong>: Meter is a Layer 1 blockchain platform known for its stability and stablecoin capabilities. It offers a stable digital currency, Meter (MTR), which is designed to maintain a stable value. Meter's architecture combines elements of both PoW (Proof of Work) and PoS (Proof of Stake) consensus mechanisms to ensure stability and security.",
+    "link": "https://gasfees.org/category/meter/",
+    "name": "Meter",
+    "slug": "meter",
+    "parent": 0
+  },
+  {
+    "id": 205,
+    "count": 0,
+    "description": "<strong>Metis</strong>: Metis is a Layer 2 blockchain platform designed to simplify the creation and management of decentralized applications (DApps) and businesses. It offers a suite of tools and solutions to help developers, entrepreneurs, and enterprises build and scale their blockchain projects efficiently. Metis focuses on scalability, security, and usability.",
+    "link": "https://gasfees.org/category/metis/",
+    "name": "Metis",
+    "slug": "metis",
+    "parent": 0
+  },
+  {
+    "id": 239,
+    "count": 0,
+    "description": "<strong>Mode</strong>: Mode is a blockchain project that aims to provide solutions for decentralized finance (DeFi) and the digital economy. It offers features like yield farming, decentralized exchanges, and lending protocols. Mode aims to enhance the accessibility and utility of blockchain technology for financial applications.",
+    "link": "https://gasfees.org/category/mode/",
+    "name": "Mode",
+    "slug": "mode",
+    "parent": 0
+  },
+  {
+    "id": 60,
+    "count": 1,
+    "description": "Discover the unique features of Moonbeam and its Ethereum compatibility. Explore insights into Moonbeam gas fees and its role in the blockchain ecosystem.",
+    "link": "https://gasfees.org/category/moonbeam/",
+    "name": "Moonbeam",
+    "slug": "moonbeam",
+    "parent": 0
+  },
+  {
+    "id": 224,
+    "count": 1,
+    "description": "<strong>Moonriver</strong>: Moonriver is a parachain on the Kusama network and a sister network to Moonbeam. It aims to provide a scalable and interoperable platform for decentralized applications (DApps) by implementing the Ethereum Virtual Machine (EVM) and supporting Ethereum-compatible smart contracts.",
+    "link": "https://gasfees.org/category/moonriver/",
+    "name": "Moonriver",
+    "slug": "moonriver",
+    "parent": 0
+  },
+  {
+    "id": 55,
+    "count": 1,
+    "description": "Explore the NEAR blockchain platform and its applications. Stay updated on the latest developments and trends in decentralized technology.",
+    "link": "https://gasfees.org/category/near/",
+    "name": "NEAR",
+    "slug": "near",
+    "parent": 0
+  },
+  {
+    "id": 532,
+    "count": 1,
+    "description": "NFTs (Non-Fungible Tokens) are unique digital assets that revolutionize ownership and creativity in the digital world. From art and music to gaming and virtual real estate, NFTs are reshaping how we buy, sell, and experience value. Explore everything about NFTs, including how they work, their uses, and how to navigate this exciting and growing space.",
+    "link": "https://gasfees.org/category/nfts/",
+    "name": "NFTs",
+    "slug": "nfts",
+    "parent": 0
+  },
+  {
+    "id": 222,
+    "count": 0,
+    "description": "<strong>Oasis Emerald</strong>: Oasis Emerald is a blockchain project that focuses on privacy and data security. It provides a platform for building privacy-focused decentralized applications (DApps) and secure data sharing solutions. Oasis Emerald aims to empower users to have greater control over their data and privacy.",
+    "link": "https://gasfees.org/category/oasis-emerald/",
+    "name": "Oasis Emerald",
+    "slug": "oasis-emerald",
+    "parent": 0
+  },
+  {
+    "id": 225,
+    "count": 0,
+    "description": "<strong>OKC</strong>: OKC refers to OKCash, which is a cryptocurrency known for its fast confirmation times and low fees. It is designed for everyday transactions and microtransactions, making it suitable for various use cases like online shopping, tipping, and peer-to-peer payments.",
+    "link": "https://gasfees.org/category/okc/",
+    "name": "OKC",
+    "slug": "okc",
+    "parent": 0
+  },
+  {
+    "id": 215,
+    "count": 0,
+    "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"react-scroll-to-bottom--css-cvjko-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-cvjko-1n7m0yu\">\r\n<div class=\"flex flex-col pb-9 text-sm\">\r\n<div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-47\">\r\n<div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\">\r\n<div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion\">\r\n<div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"e31e0f51-98dc-40d0-84b2-8b150c8b486c\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\r\n\r\n<strong>opBNB</strong>: OpBNB may refer to a cryptocurrency or token associated with a particular blockchain or project. Please provide additional context or details if you have a specific project or token in mind, and I would be happy to provide a description based on that information.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"mt-1 flex justify-start gap-3 empty:hidden\">\r\n<div class=\"text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 gap-1 visible\"><button class=\"flex items-center gap-1.5 rounded-md p-1 pl-0 text-xs hover:text-gray-950 dark:text-gray-400 dark:hover:text-gray-200 disabled:dark:hover:text-gray-400 md:invisible md:group-hover:visible md:group-[.final-completion]:visible\"></button>\r\n<div class=\"flex gap-1\"></div>\r\n<div class=\"flex items-center gap-1.5 text-xs\"></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]\">\r\n<div class=\"relative flex h-full flex-1 items-stretch md:flex-col\">\r\n<div class=\"flex w-full items-center\"></div>\r\n</div>\r\n</div>",
+    "link": "https://gasfees.org/category/opbnb/",
+    "name": "opBNB",
+    "slug": "opbnb",
+    "parent": 0
+  },
+  {
+    "id": 59,
+    "count": 1,
+    "description": "Dive into the world of Optimism and its impact on blockchain scalability. Explore the latest developments and trends in decentralized technology.",
+    "link": "https://gasfees.org/category/optimism/",
+    "name": "Optimism",
+    "slug": "optimism",
+    "parent": 0
+  },
+  {
+    "id": 242,
+    "count": 1,
+    "description": "<strong>Optimistic Rollups</strong>: Optimistic Rollups are Layer 2 scaling solutions for blockchains, including Ethereum. They use a technique that \"rolls up\" multiple transactions into a single batch, reducing congestion on the mainnet and increasing transaction throughput while maintaining security.",
+    "link": "https://gasfees.org/category/optimistic-rollups/",
+    "name": "Optimistic Rollups",
+    "slug": "optimistic-rollups",
+    "parent": 0
+  },
+  {
+    "id": 51,
+    "count": 1,
+    "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"react-scroll-to-bottom--css-dkiss-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-dkiss-1n7m0yu\">\r\n<div class=\"flex flex-col pb-9 text-sm\">\r\n<div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-59\">\r\n<div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\">\r\n<div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl group final-completion\">\r\n<div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"d3f8fc6e-bc92-438c-a928-858f6d1cd14a\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\r\n\r\nExplore the Osmosis blockchain ecosystem, its innovative features, and its impact on decentralized finance. Stay updated on the latest developments and trends in the world of Osmosis and liquidity provision.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"mt-1 flex justify-start gap-3 empty:hidden\">\r\n<div class=\"text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 gap-1 visible\"><button class=\"flex items-center gap-1.5 rounded-md p-1 pl-0 text-xs hover:text-gray-950 dark:text-gray-400 dark:hover:text-gray-200 disabled:dark:hover:text-gray-400 md:invisible md:group-hover:visible md:group-[.final-completion]:visible\"></button>\r\n<div class=\"flex gap-1\"></div>\r\n<div class=\"flex items-center gap-1.5 text-xs\"></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<button class=\"cursor-pointer absolute z-10 rounded-full bg-clip-padding border text-gray-600 dark:border-white/10 dark:bg-white/10 dark:text-gray-200 right-1/2 border-black/10 bg-token-surface-primary bottom-5\"></button></div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]\">\r\n<div class=\"relative flex h-full flex-1 items-stretch md:flex-col\">\r\n<div class=\"flex w-full items-center\"></div>\r\n</div>\r\n</div>",
+    "link": "https://gasfees.org/category/osmosis/",
+    "name": "Osmosis",
+    "slug": "osmosis",
+    "parent": 0
+  },
+  {
+    "id": 12,
+    "count": 1,
+    "description": "Palm gas fees are the transaction expenses associated with the Palm Network, a blockchain platform tailored for DeFi and NFT applications. Palm Network competes with competitive gas fees, striving to deliver a seamless experience for users and developers alike.",
+    "link": "https://gasfees.org/category/palm/",
+    "name": "Palm",
+    "slug": "palm",
+    "parent": 0
+  },
+  {
+    "id": 241,
+    "count": 1,
+    "description": "<strong>Plasma</strong>: Plasma is a framework for building scalable and secure Ethereum sidechains. It enables the creation of child chains that can process transactions more quickly and at lower costs while remaining anchored to the Ethereum mainnet for security.",
+    "link": "https://gasfees.org/category/plasma/",
+    "name": "Plasma",
+    "slug": "plasma",
+    "parent": 0
+  },
+  {
+    "id": 538,
+    "count": 1,
+    "description": "",
+    "link": "https://gasfees.org/category/polkadot/",
+    "name": "Polkadot",
+    "slug": "polkadot",
+    "parent": 0
+  },
+  {
+    "id": 6,
+    "count": 1,
+    "description": "Polygon gas fees refer to the costs associated with transactions on the Polygon network, a Layer 2 scaling solution for Ethereum. Renowned for their affordability compared to Ethereum's gas fees, Polygon's transaction costs make it an appealing choice for those seeking efficient and swift transactions within the Ethereum ecosystem.",
+    "link": "https://gasfees.org/category/polygon/",
+    "name": "Polygon",
+    "slug": "polygon",
+    "parent": 0
+  },
+  {
+    "id": 208,
+    "count": 1,
+    "description": "<strong>Polygon zkEVM</strong>: Polygon zkEVM is a Layer 2 scaling solution that combines the benefits of zkRollups (zero-knowledge proofs) with Ethereum compatibility. It aims to increase the transaction throughput and reduce gas fees on the Ethereum network while maintaining compatibility with existing Ethereum smart contracts.",
+    "link": "https://gasfees.org/category/polygon-zkevm/",
+    "name": "Polygon zkEVM",
+    "slug": "polygon-zkevm",
+    "parent": 0
+  },
+  {
+    "id": 14,
+    "count": 3,
+    "description": "PulseChain gas fees encompass the costs tied to transactions on the PulseChain blockchain, initiated by Richard Heart. PulseChain's goal is to introduce decentralized finance and smart contracts to the Pulse Network with competitive gas fees and Ethereum compatibility.",
+    "link": "https://gasfees.org/category/pulsechain/",
+    "name": "PulseChain",
+    "slug": "pulsechain",
+    "parent": 0
+  },
+  {
+    "id": 246,
+    "count": 1,
+    "description": "<strong>Raiden Network</strong>: The Raiden Network is an off-chain scaling solution for Ethereum designed to facilitate fast and low-cost peer-to-peer payments and token transfers. It enables micropayments and can be used for various applications, including IoT and gaming.",
+    "link": "https://gasfees.org/category/raiden-network/",
+    "name": "Raiden Network",
+    "slug": "raiden-network",
+    "parent": 0
+  },
+  {
+    "id": 481,
+    "count": 1,
+    "description": "",
+    "link": "https://gasfees.org/category/ravencoin/",
+    "name": "Ravencoin",
+    "slug": "ravencoin",
+    "parent": 0
+  },
+  {
+    "id": 206,
+    "count": 2,
+    "description": "<strong>Scroll</strong>: Scroll is a blockchain project focused on privacy and data security. It aims to provide a secure and private environment for data storage and sharing, making it suitable for applications that require data privacy and confidentiality.",
+    "link": "https://gasfees.org/category/scroll/",
+    "name": "Scroll",
+    "slug": "scroll",
+    "parent": 0
+  },
+  {
+    "id": 220,
+    "count": 1,
+    "description": "<strong>Shibarium</strong>: Shibarium may refer to a specific project or initiative within the broader blockchain space. Without additional context, it's challenging to provide a specific description. Please provide more details if you have a particular Shibarium project in mind.",
+    "link": "https://gasfees.org/category/shibarium/",
+    "name": "Shibarium",
+    "slug": "shibarium",
+    "parent": 0
+  },
+  {
+    "id": 247,
+    "count": 0,
+    "description": "SmartBCH is a Bitcoin Cash smart contract sidechain, enabling developers to build decentralized applications on the Bitcoin Cash network.",
+    "link": "https://gasfees.org/category/smartbch/",
+    "name": "SmartBCH",
+    "slug": "smartbch",
+    "parent": 0
+  },
+  {
+    "id": 8,
+    "count": 1,
+    "description": "Solana gas fees denote the expenses incurred while executing transactions and interacting with smart contracts on the Solana blockchain. Solana is lauded for its rapid and economical transactions, attracting developers working on decentralized applications (dApps) and DeFi protocols.",
+    "link": "https://gasfees.org/category/solana/",
+    "name": "Solana",
+    "slug": "solana",
+    "parent": 0
+  },
+  {
+    "id": 201,
+    "count": 1,
+    "description": "<strong>Sui</strong>: Sui may refer to a blockchain project or cryptocurrency. To provide a description, I would need more context or information about the specific Sui project you are referring to.",
+    "link": "https://gasfees.org/category/sui/",
+    "name": "Sui",
+    "slug": "sui",
+    "parent": 0
+  },
+  {
+    "id": 234,
+    "count": 1,
+    "description": "<strong>SX Network</strong>: SX Network is a blockchain project that aims to provide a scalable and efficient platform for decentralized applications (DApps) and blockchain solutions. It may offer features and capabilities designed to enhance the developer experience and user adoption.",
+    "link": "https://gasfees.org/category/sx-network/",
+    "name": "SX Network",
+    "slug": "sx-network",
+    "parent": 0
+  },
+  {
+    "id": 238,
+    "count": 1,
+    "description": "<strong>Syscoin</strong>: Syscoin is a blockchain platform that focuses on providing infrastructure for decentralized marketplaces, asset tokenization, and secure data storage. It aims to facilitate e-commerce and decentralized trading.",
+    "link": "https://gasfees.org/category/syscoin/",
+    "name": "Syscoin",
+    "slug": "syscoin",
+    "parent": 0
+  },
+  {
+    "id": 54,
+    "count": 1,
+    "description": "<div class=\"flex-1 overflow-hidden\">\r\n<div class=\"react-scroll-to-bottom--css-dkiss-79elbk h-full\">\r\n<div class=\"react-scroll-to-bottom--css-dkiss-1n7m0yu\">\r\n<div class=\"flex flex-col pb-9 text-sm\">\r\n<div class=\"w-full text-token-text-primary\" data-testid=\"conversation-turn-63\">\r\n<div class=\"px-4 py-2 justify-center text-base md:gap-6 m-auto\">\r\n<div class=\"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl group final-completion\">\r\n<div class=\"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn\">\r\n<div class=\"flex-col gap-1 md:gap-3\">\r\n<div class=\"flex flex-grow flex-col max-w-full\">\r\n<div class=\"min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"c8c49449-d38f-4ff6-8f93-3e6289e5f686\">\r\n<div class=\"markdown prose w-full break-words dark:prose-invert dark\">\r\n\r\nExplore the Tezos blockchain ecosystem and its contributions to blockchain governance and smart contract technology. Stay updated on the latest developments, innovations, and trends within the Tezos community. Discover the future of decentralized technology with Tezos.\r\n\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"mt-1 flex justify-start gap-3 empty:hidden\">\r\n<div class=\"text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 gap-1 visible\"><button class=\"flex items-center gap-1.5 rounded-md p-1 pl-0 text-xs hover:text-gray-950 dark:text-gray-400 dark:hover:text-gray-200 disabled:dark:hover:text-gray-400 md:invisible md:group-hover:visible md:group-[.final-completion]:visible\"></button>\r\n<div class=\"flex gap-1\"></div>\r\n<div class=\"flex items-center gap-1.5 text-xs\"></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]\">\r\n<div class=\"relative flex h-full flex-1 items-stretch md:flex-col\">\r\n<div class=\"flex w-full items-center\"></div>\r\n</div>\r\n</div>",
+    "link": "https://gasfees.org/category/tezos/",
+    "name": "Tezos",
+    "slug": "tezos",
+    "parent": 0
+  },
+  {
+    "id": 233,
+    "count": 1,
+    "description": "<strong>ThunderCore</strong>: ThunderCore is a blockchain platform known for its high throughput and fast confirmation times. It offers a scalable environment for DApps and aims to provide an excellent user experience for developers and users.",
+    "link": "https://gasfees.org/category/thundercore/",
+    "name": "ThunderCore",
+    "slug": "thundercore",
+    "parent": 0
+  },
+  {
+    "id": 223,
+    "count": 1,
+    "description": "<strong>Velas</strong>: Velas is a blockchain platform designed for scalability and security. It aims to provide a fast and secure environment for building DApps and blockchain projects, with a focus on improving blockchain technology's efficiency.",
+    "link": "https://gasfees.org/category/velas/",
+    "name": "Velas",
+    "slug": "velas",
+    "parent": 0
+  },
+  {
+    "id": 229,
+    "count": 1,
+    "description": "<strong>Wanchain</strong>: Wanchain is a blockchain network focused on interoperability, enabling cross-chain transactions and data sharing between different blockchain networks. It aims to create a more connected and inclusive blockchain ecosystem.",
+    "link": "https://gasfees.org/category/wanchain/",
+    "name": "Wanchain",
+    "slug": "wanchain",
+    "parent": 0
+  },
+  {
+    "id": 230,
+    "count": 1,
+    "description": "<strong>Waves</strong>: Waves is a blockchain platform that offers tools and solutions for token issuance, decentralized exchange, and crowdfunding. It provides an accessible platform for creating and trading digital assets.",
+    "link": "https://gasfees.org/category/waves/",
+    "name": "Waves",
+    "slug": "waves",
+    "parent": 0
+  },
+  {
+    "id": 244,
+    "count": 1,
+    "description": "<strong>xDAI Chain</strong>: xDAI Chain is a Layer 2 scaling solution for Ethereum, providing fast and low-cost transactions. It is often used for applications requiring quick and affordable payments, including stablecoins and decentralized finance (DeFi) projects.",
+    "link": "https://gasfees.org/category/xdai-chain/",
+    "name": "xDai Chain",
+    "slug": "xdai-chain",
+    "parent": 0
+  },
+  {
+    "id": 434,
+    "count": 1,
+    "description": "XRP does not have traditional gas fees like many other blockchains. This is because it utilizes a different consensus mechanism called the Ripple Protocol Consensus Algorithm (RPCA). Instead of gas fees, transactions on the XRP Ledger incur a minimal base reserve of 0.00001 XRP, which is destroyed upon transaction completion.",
+    "link": "https://gasfees.org/category/xrp/",
+    "name": "XRP",
+    "slug": "xrp",
+    "parent": 0
+  },
+  {
+    "id": 508,
+    "count": 1,
+    "description": "**Category Description:**  \r\nThe XRP Ledger (XRPL) is a decentralized, open-source blockchain designed for fast, efficient, and cost-effective payments and asset transfers. Known for its scalability and low transaction costs, XRPL powers a range of use cases, from cross-border payments to tokenization. Explore in-depth guides, updates, and tools to leverage the power of XRPL for secure and seamless financial solutions.",
+    "link": "https://gasfees.org/category/xrpl/",
+    "name": "XRPL",
+    "slug": "xrpl",
+    "parent": 0
+  },
+  {
+    "id": 507,
+    "count": 1,
+    "description": "ZetaChain is a groundbreaking blockchain platform designed to unify multiple networks into a seamless, interoperable ecosystem. It enables secure and decentralized communication across blockchains, empowering developers to build omnichain dApps with ease. Explore how ZetaChain simplifies cross-chain transactions, enhances scalability, and transforms the way blockchain ecosystems interact. Dive into guides, updates, and resources to harness the full potential of ZetaChain.",
+    "link": "https://gasfees.org/category/zetachain/",
+    "name": "ZetaChain",
+    "slug": "zetachain",
+    "parent": 0
+  },
+  {
+    "id": 243,
+    "count": 1,
+    "description": "<strong>ZK-Rollups</strong>: ZK-Rollups, or Zero-Knowledge Rollups, are a Layer 2 scaling solution for blockchains like Ethereum. They use zero-knowledge proofs to bundle and validate multiple transactions off-chain, reducing congestion and improving scalability while maintaining security and decentralization.",
+    "link": "https://gasfees.org/category/zk-rollups/",
+    "name": "ZK-Rollups",
+    "slug": "zk-rollups",
+    "parent": 0
+  },
+  {
+    "id": 198,
+    "count": 0,
+    "description": "Discover zkSync, the cutting-edge Layer 2 scaling solution for Ethereum, in this dedicated category. Explore zkSync's potential to enhance transaction efficiency, reduce fees, and increase the scalability of the Ethereum network. Unlock the future of decentralized finance with zkSync.",
+    "link": "https://gasfees.org/category/zksync/",
+    "name": "zkSync",
+    "slug": "zksync",
+    "parent": 0
+  }
+]

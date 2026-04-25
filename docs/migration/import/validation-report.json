@@ -1,0 +1,308 @@
+{
+  "generatedAt": "2026-04-25T23:01:57.548Z",
+  "totals": {
+    "posts": 114,
+    "pages": 13,
+    "categories": 89,
+    "tags": 417
+  },
+  "cleanupCandidates": [
+    {
+      "type": "post",
+      "sourceId": 6213,
+      "slug": "how-to-speed-up-or-cancel-a-pending-transaction",
+      "title": "How to speed up or cancel a pending transaction",
+      "wordCount": 426,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/how-to-speed-up-or-cancel-a-pending-transaction/"
+    },
+    {
+      "type": "post",
+      "sourceId": 4831,
+      "slug": "what-is-kadena-gas-fees",
+      "title": "What are Kadena Gas Fees?",
+      "wordCount": 212,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/what-is-kadena-gas-fees/"
+    },
+    {
+      "type": "post",
+      "sourceId": 4826,
+      "slug": "what-are-ravencoin-gas-fees",
+      "title": "What are Ravencoin Gas Fees?",
+      "wordCount": 308,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/what-are-ravencoin-gas-fees/"
+    },
+    {
+      "type": "post",
+      "sourceId": 4816,
+      "slug": "what-are-centrifuge-gas-fees",
+      "title": "What are Centrifuge Gas Fees?",
+      "wordCount": 375,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/what-are-centrifuge-gas-fees/"
+    },
+    {
+      "type": "post",
+      "sourceId": 4804,
+      "slug": "what-are-zetachain-gas-fees",
+      "title": "What Are ZetaChain Gas Fees?",
+      "wordCount": 524,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/what-are-zetachain-gas-fees/"
+    },
+    {
+      "type": "post",
+      "sourceId": 2896,
+      "slug": "how-to-avoid-overpaying-for-gas-fees",
+      "title": "How to Avoid Overpaying for Gas Fees",
+      "wordCount": 581,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/how-to-avoid-overpaying-for-gas-fees/"
+    },
+    {
+      "type": "post",
+      "sourceId": 2890,
+      "slug": "top-blockchains-with-the-lowest-gas-fees",
+      "title": "Top Blockchains with the Lowest Gas Fees",
+      "wordCount": 537,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/top-blockchains-with-the-lowest-gas-fees/"
+    },
+    {
+      "type": "post",
+      "sourceId": 2884,
+      "slug": "how-gas-fees-affect-your-crypto-investments",
+      "title": "How Gas Fees Affect Your Crypto Investments",
+      "wordCount": 0,
+      "cleanupStatus": "cleanup",
+      "oldUrl": "https://gasfees.org/how-gas-fees-affect-your-crypto-investments/"
+    },
+    {
+      "type": "post",
+      "sourceId": 2882,
+      "slug": "real-time-gas-fee-trackers-do-you-need-one",
+      "title": "Real-Time Gas Fee Trackers: Do You Need One?",
+      "wordCount": 0,
+      "cleanupStatus": "cleanup",
+      "oldUrl": "https://gasfees.org/real-time-gas-fee-trackers-do-you-need-one/"
+    },
+    {
+      "type": "post",
+      "sourceId": 2878,
+      "slug": "simple-strategies-for-predicting-gas-fee-spikes",
+      "title": "Simple Strategies for Predicting Gas Fee Spikes",
+      "wordCount": 0,
+      "cleanupStatus": "cleanup",
+      "oldUrl": "https://gasfees.org/simple-strategies-for-predicting-gas-fee-spikes/"
+    },
+    {
+      "type": "post",
+      "sourceId": 2876,
+      "slug": "comparing-gas-fees-ethereum-vs-binance-smart-chain",
+      "title": "Comparing Gas Fees: Ethereum vs. Binance Smart Chain",
+      "wordCount": 0,
+      "cleanupStatus": "cleanup",
+      "oldUrl": "https://gasfees.org/comparing-gas-fees-ethereum-vs-binance-smart-chain/"
+    },
+    {
+      "type": "post",
+      "sourceId": 2874,
+      "slug": "ways-to-reduce-your-gas-fees-when-trading-crypto",
+      "title": "Ways to Reduce Your Gas Fees When Trading Crypto",
+      "wordCount": 519,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/ways-to-reduce-your-gas-fees-when-trading-crypto/"
+    },
+    {
+      "type": "post",
+      "sourceId": 2872,
+      "slug": "why-gas-fees-matter-a-beginners-guide",
+      "title": "Why Gas Fees Matter: A Beginner's Guide",
+      "wordCount": 0,
+      "cleanupStatus": "cleanup",
+      "oldUrl": "https://gasfees.org/why-gas-fees-matter-a-beginners-guide/"
+    },
+    {
+      "type": "post",
+      "sourceId": 2631,
+      "slug": "aptos-blockchain",
+      "title": "Aptos Blockchain",
+      "wordCount": 363,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/aptos-blockchain/"
+    },
+    {
+      "type": "post",
+      "sourceId": 1107,
+      "slug": "what-is-the-price-of-pulsechain",
+      "title": "What is the price of Pulsechain?",
+      "wordCount": 414,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/what-is-the-price-of-pulsechain/"
+    },
+    {
+      "type": "post",
+      "sourceId": 1104,
+      "slug": "how-do-i-buy-pulsechain",
+      "title": "How do I buy Pulsechain?",
+      "wordCount": 423,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/how-do-i-buy-pulsechain/"
+    },
+    {
+      "type": "post",
+      "sourceId": 1101,
+      "slug": "what-is-the-price-prediction-for-acala-in-2024-2025",
+      "title": "What is the price prediction for Acala in 2024-2025?",
+      "wordCount": 523,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/what-is-the-price-prediction-for-acala-in-2024-2025/"
+    },
+    {
+      "type": "post",
+      "sourceId": 1082,
+      "slug": "cheapest-crypto-to-transfer",
+      "title": "What is the cheapest crypto network gas fees?",
+      "wordCount": 535,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/cheapest-crypto-to-transfer/"
+    },
+    {
+      "type": "post",
+      "sourceId": 730,
+      "slug": "canto-gas-fees",
+      "title": "What Are Canto Gas Fees?",
+      "wordCount": 572,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/canto-gas-fees/"
+    },
+    {
+      "type": "post",
+      "sourceId": 610,
+      "slug": "how-to-add-acala-blockchain-to-metamask",
+      "title": "How To Add Acala Blockchain To Metamask?",
+      "wordCount": 333,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/how-to-add-acala-blockchain-to-metamask/"
+    },
+    {
+      "type": "post",
+      "sourceId": 423,
+      "slug": "eip-4844-explained-ethereum-latest-proposal-reduce-gas-fees-boost-scalability",
+      "title": "EIP 4844 Explained: How Ethereum's Latest Proposal Will Reduce Gas Fees and Boost Scalability",
+      "wordCount": 598,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/eip-4844-explained-ethereum-latest-proposal-reduce-gas-fees-boost-scalability/"
+    },
+    {
+      "type": "post",
+      "sourceId": 83,
+      "slug": "what-networks-are-layer-1-l1-or-layer-2-l2",
+      "title": "What networks are Layer 1 (L1) or Layer 2 (L2)",
+      "wordCount": 562,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/what-networks-are-layer-1-l1-or-layer-2-l2/"
+    },
+    {
+      "type": "page",
+      "sourceId": 7535,
+      "slug": "terms-of-service",
+      "title": "Terms of Service",
+      "wordCount": 485,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/terms-of-service/"
+    },
+    {
+      "type": "page",
+      "sourceId": 7173,
+      "slug": "new-home",
+      "title": "new home",
+      "wordCount": 0,
+      "cleanupStatus": "cleanup",
+      "oldUrl": "https://gasfees.org/new-home/"
+    },
+    {
+      "type": "page",
+      "sourceId": 3798,
+      "slug": "about-us",
+      "title": "About Us",
+      "wordCount": 212,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/about-us/"
+    },
+    {
+      "type": "page",
+      "sourceId": 2582,
+      "slug": "aptos-gas-fees-calculator-advanced",
+      "title": "Aptos Gas Fees Calculator Advanced",
+      "wordCount": 179,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/aptos-gas-fees-calculator-advanced/"
+    },
+    {
+      "type": "page",
+      "sourceId": 2555,
+      "slug": "ethereum-blockchain",
+      "title": "Ethereum Blockchain",
+      "wordCount": 30,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/ethereum-blockchain/"
+    },
+    {
+      "type": "page",
+      "sourceId": 1827,
+      "slug": "newhome",
+      "title": "Your Comprehensive Crypto Gas Fee Tracker: Real-Time Insights for 100+ Blockchains",
+      "wordCount": 412,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/"
+    },
+    {
+      "type": "page",
+      "sourceId": 1140,
+      "slug": "subscribe",
+      "title": "",
+      "wordCount": 142,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/subscribe/"
+    },
+    {
+      "type": "page",
+      "sourceId": 572,
+      "slug": "books-%f0%9f%93%9a",
+      "title": "Books &#x1f4da;",
+      "wordCount": 189,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/books-%f0%9f%93%9a/"
+    },
+    {
+      "type": "page",
+      "sourceId": 428,
+      "slug": "gas-fees-chart",
+      "title": "Gas Tracker Charts",
+      "wordCount": 27,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/gas-fees-chart/"
+    },
+    {
+      "type": "page",
+      "sourceId": 370,
+      "slug": "contributors",
+      "title": "Meet our Contributors!",
+      "wordCount": 300,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/contributors/"
+    },
+    {
+      "type": "page",
+      "sourceId": 2,
+      "slug": "what-are-crypto-gas-fees",
+      "title": "Comprehensive Gas Fee Tracking for Every Blockchain",
+      "wordCount": 279,
+      "cleanupStatus": "consolidate",
+      "oldUrl": "https://gasfees.org/what-are-crypto-gas-fees/"
+    }
+  ]
+}

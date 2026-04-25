@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fbfaf7;
+  --foreground: #171512;
+  --muted: #6f6a61;
+  --line: #e7e1d8;
+  --surface: #ffffff;
+  --surface-alt: #f4efe7;
+  --accent: #0f766e;
+  --accent-strong: #0a4f49;
+  --accent-soft: #dff3ef;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-surface: var(--surface);
+  --color-surface-alt: var(--surface-alt);
+  --color-accent: var(--accent);
+  --color-accent-strong: var(--accent-strong);
+  --color-accent-soft: var(--accent-soft);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+::selection {
+  background: var(--accent-soft);
+  color: var(--accent-strong);
+}
+
+a {
+  text-underline-offset: 0.2em;
+}
+
+.content-flow > * + * {
+  margin-top: 1rem;
+}
+
+.content-flow h2 {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.content-flow h3 {
+  margin-top: 1.5rem;
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.content-flow p,
+.content-flow li {
+  color: var(--muted);
+  line-height: 1.8;
+}
+
+.content-flow ul,
+.content-flow ol {
+  padding-left: 1.25rem;
+}
+
+.content-flow ul {
+  list-style: disc;
+}
+
+.content-flow ol {
+  list-style: decimal;
+}

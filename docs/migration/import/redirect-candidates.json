@@ -1,0 +1,764 @@
+[
+  {
+    "source": "/what-are-tron-gas-fees/",
+    "destination": "/what-are-tron-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-bitshares-gas-fees/",
+    "destination": "/what-are-bitshares-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-algorand-gas-fees/",
+    "destination": "/what-are-algorand-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/gas-fees-explained-tracking-ethereum-aptos/",
+    "destination": "/gas-fees-explained-tracking-ethereum-aptos",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-nano-gas-fees/",
+    "destination": "/what-are-nano-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/crypto-gas-fees-2025-lower-costs/",
+    "destination": "/crypto-gas-fees-2025-lower-costs",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-polkadot-dot-gas-fees/",
+    "destination": "/what-are-polkadot-dot-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/a-comprehensive-guide-to-tracking-gas-fees-across-multiple-blockchains/",
+    "destination": "/a-comprehensive-guide-to-tracking-gas-fees-across-multiple-blockchains",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-cardano-gas-fees/",
+    "destination": "/what-are-cardano-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-skale-gas-fees/",
+    "destination": "/what-are-skale-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/real-time-gas-tracker-crypto-monitor-eth-multi-chain-fees-instantly/",
+    "destination": "/real-time-gas-tracker-crypto-monitor-eth-multi-chain-fees-instantly",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/how-to-speed-up-or-cancel-a-pending-transaction/",
+    "destination": "/how-to-speed-up-or-cancel-a-pending-transaction",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/gwei-tracking-guide/",
+    "destination": "/gwei-tracking-guide",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/understanding-eth-gas-fees-a-technical-overview/",
+    "destination": "/understanding-eth-gas-fees-a-technical-overview",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-bittorrent-gas-fees/",
+    "destination": "/what-are-bittorrent-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-is-kadena-gas-fees/",
+    "destination": "/what-is-kadena-gas-fees",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/what-are-ravencoin-gas-fees/",
+    "destination": "/what-are-ravencoin-gas-fees",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/what-are-centrifuge-gas-fees/",
+    "destination": "/what-are-centrifuge-gas-fees",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/what-are-zetachain-gas-fees/",
+    "destination": "/what-are-zetachain-gas-fees",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/the-galactic-guide-to-top-100-public-blockchains/",
+    "destination": "/the-galactic-guide-to-top-100-public-blockchains",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/title-understanding-transaction-costs-in-the-xrp-ledger/",
+    "destination": "/title-understanding-transaction-costs-in-the-xrp-ledger",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/gas-fees-got-you-down-discover-how-to-keep-more-crypto-in-your-pocket/",
+    "destination": "/gas-fees-got-you-down-discover-how-to-keep-more-crypto-in-your-pocket",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/real-time-gas-fee-tracking-why-its-crucial/",
+    "destination": "/real-time-gas-fee-tracking-why-its-crucial",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/miners-vs-validators-who-determines-gas-fees/",
+    "destination": "/miners-vs-validators-who-determines-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/latest-trends-in-gas-fee-reduction-techniques/",
+    "destination": "/latest-trends-in-gas-fee-reduction-techniques",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-newbies-should-know-about-gas-fees-in-cryptocurrency/",
+    "destination": "/what-newbies-should-know-about-gas-fees-in-cryptocurrency",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/how-to-avoid-overpaying-for-gas-fees/",
+    "destination": "/how-to-avoid-overpaying-for-gas-fees",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/top-blockchains-with-the-lowest-gas-fees/",
+    "destination": "/top-blockchains-with-the-lowest-gas-fees",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/the-impact-of-gas-fees-on-decentralized-finance-defi/",
+    "destination": "/the-impact-of-gas-fees-on-decentralized-finance-defi",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-influences-gas-fees-a-quick-guide/",
+    "destination": "/what-influences-gas-fees-a-quick-guide",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/best-practices-for-using-gas-fee-trackers/",
+    "destination": "/best-practices-for-using-gas-fee-trackers",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/tips-for-managing-high-gas-fees/",
+    "destination": "/tips-for-managing-high-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/how-gas-fees-affect-your-crypto-investments/",
+    "destination": "/how-gas-fees-affect-your-crypto-investments",
+    "permanent": true,
+    "status": "cleanup"
+  },
+  {
+    "source": "/real-time-gas-fee-trackers-do-you-need-one/",
+    "destination": "/real-time-gas-fee-trackers-do-you-need-one",
+    "permanent": true,
+    "status": "cleanup"
+  },
+  {
+    "source": "/understanding-gas-fees-the-basics/",
+    "destination": "/understanding-gas-fees-the-basics",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/simple-strategies-for-predicting-gas-fee-spikes/",
+    "destination": "/simple-strategies-for-predicting-gas-fee-spikes",
+    "permanent": true,
+    "status": "cleanup"
+  },
+  {
+    "source": "/comparing-gas-fees-ethereum-vs-binance-smart-chain/",
+    "destination": "/comparing-gas-fees-ethereum-vs-binance-smart-chain",
+    "permanent": true,
+    "status": "cleanup"
+  },
+  {
+    "source": "/ways-to-reduce-your-gas-fees-when-trading-crypto/",
+    "destination": "/ways-to-reduce-your-gas-fees-when-trading-crypto",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/why-gas-fees-matter-a-beginners-guide/",
+    "destination": "/why-gas-fees-matter-a-beginners-guide",
+    "permanent": true,
+    "status": "cleanup"
+  },
+  {
+    "source": "/top-tools-for-monitoring-crypto-gas-fees/",
+    "destination": "/top-tools-for-monitoring-crypto-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/how-to-track-gas-fees-across-multiple-blockchains/",
+    "destination": "/how-to-track-gas-fees-across-multiple-blockchains",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/understanding-gas-fees-what-you-need-to-know-in-2024/",
+    "destination": "/understanding-gas-fees-what-you-need-to-know-in-2024",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/aptos-blockchain/",
+    "destination": "/aptos-blockchain",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/what-is-the-price-of-pulsechain/",
+    "destination": "/what-is-the-price-of-pulsechain",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/how-do-i-buy-pulsechain/",
+    "destination": "/how-do-i-buy-pulsechain",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/what-is-the-price-prediction-for-acala-in-2024-2025/",
+    "destination": "/what-is-the-price-prediction-for-acala-in-2024-2025",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/xrp-gas-fees/",
+    "destination": "/xrp-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/cheapest-crypto-to-transfer/",
+    "destination": "/cheapest-crypto-to-transfer",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/injective-protocol-gas-fees/",
+    "destination": "/injective-protocol-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/how-much-are-nft-gas-fees/",
+    "destination": "/how-much-are-nft-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/scroll-transaction-fees/",
+    "destination": "/scroll-transaction-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-harmony-gas-fees/",
+    "destination": "/what-are-harmony-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/understanding-gas-and-storage-fees-on-aptos-blockchain/",
+    "destination": "/understanding-gas-and-storage-fees-on-aptos-blockchain",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/evmos-gas-fees/",
+    "destination": "/evmos-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/ethereumpow-gas-fees/",
+    "destination": "/ethereumpow-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/ethereum-classic-gas-fees/",
+    "destination": "/ethereum-classic-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/energi-gas-fees/",
+    "destination": "/energi-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/dogechain-gas-fees/",
+    "destination": "/dogechain-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/canto-gas-fees/",
+    "destination": "/canto-gas-fees",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/avalanche-dfk-gas-fees/",
+    "destination": "/avalanche-dfk-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/arbitrum-nova-gas-fees/",
+    "destination": "/arbitrum-nova-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-boba-gas-fees/",
+    "destination": "/what-are-boba-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/how-to-add-acala-blockchain-to-metamask/",
+    "destination": "/how-to-add-acala-blockchain-to-metamask",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/what-is-acala-blockchain/",
+    "destination": "/what-is-acala-blockchain",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/conflux-gas-fees/",
+    "destination": "/conflux-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/iotex-gas-fees/",
+    "destination": "/iotex-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-bitcoin-gas-fees/",
+    "destination": "/what-are-bitcoin-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-astar-gas-fees/",
+    "destination": "/what-are-astar-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-alvey-network-gas-fees/",
+    "destination": "/what-are-alvey-network-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-zk-rollups-gas-fees/",
+    "destination": "/what-are-zk-rollups-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-xdai-chain-gas-fees/",
+    "destination": "/what-are-xdai-chain-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-waves-gas-fees/",
+    "destination": "/what-are-waves-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-wanchain-gas-fees/",
+    "destination": "/what-are-wanchain-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-velas-gas-fees/",
+    "destination": "/what-are-velas-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-thundercore-gas-fees/",
+    "destination": "/what-are-thundercore-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-syscoin-gas-fees/",
+    "destination": "/what-are-syscoin-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-sx-network-gas-fees/",
+    "destination": "/what-are-sx-network-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-sui-gas-fees/",
+    "destination": "/what-are-sui-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-shibarium-gas-fees/",
+    "destination": "/what-are-shibarium-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-scroll-gas-fees/",
+    "destination": "/what-are-scroll-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-raiden-network-gas-fees/",
+    "destination": "/what-are-raiden-network-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-polygon-zkevm-gas-fees/",
+    "destination": "/what-are-polygon-zkevm-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-plasma-gas-fees/",
+    "destination": "/what-are-plasma-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-optimistic-rollups-gas-fees/",
+    "destination": "/what-are-optimistic-rollups-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-moonriver-gas-fees/",
+    "destination": "/what-are-moonriver-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/eip-4844-explained-ethereum-latest-proposal-reduce-gas-fees-boost-scalability/",
+    "destination": "/eip-4844-explained-ethereum-latest-proposal-reduce-gas-fees-boost-scalability",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/what-are-acala-network-gas-fees/",
+    "destination": "/what-are-acala-network-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-cosmos-gas-fees/",
+    "destination": "/what-are-cosmos-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/understanding-ethereum-gas-fees-what-you-need-to-know/",
+    "destination": "/understanding-ethereum-gas-fees-what-you-need-to-know",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-celo-gas-fees/",
+    "destination": "/what-are-celo-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-aurora-gas-fees/",
+    "destination": "/what-are-aurora-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-moonbeam-gas-fees/",
+    "destination": "/what-are-moonbeam-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-optimism-gas-fees/",
+    "destination": "/what-are-optimism-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-kava-gas-fees/",
+    "destination": "/what-are-kava-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-elastos-gas-fees/",
+    "destination": "/what-are-elastos-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-aptos-gas-fees/",
+    "destination": "/what-are-aptos-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-near-gas-fees/",
+    "destination": "/what-are-near-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-tezos-gas-fees/",
+    "destination": "/what-are-tezos-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-flare-gas-fees/",
+    "destination": "/what-are-flare-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-hedera-gas-fees/",
+    "destination": "/what-are-hedera-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-osmosis-gas-fees/",
+    "destination": "/what-are-osmosis-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-klaytn-gas-fees/",
+    "destination": "/what-are-klaytn-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-networks-are-layer-1-l1-or-layer-2-l2/",
+    "destination": "/what-networks-are-layer-1-l1-or-layer-2-l2",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/what-are-pulsechain-gas-fees/",
+    "destination": "/what-are-pulsechain-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-base-gas-fees/",
+    "destination": "/what-are-base-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-palm-gas-fees/",
+    "destination": "/what-are-palm-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-arbitrum-gas-fees/",
+    "destination": "/what-are-arbitrum-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-cronos-gas-fees/",
+    "destination": "/what-are-cronos-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-fantom-gas-fees/",
+    "destination": "/what-are-fantom-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-solana-gas-fees/",
+    "destination": "/what-are-solana-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-avalanche-gas-fees/",
+    "destination": "/what-are-avalanche-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-polygon-gas-fees/",
+    "destination": "/what-are-polygon-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-binance-gas-fees/",
+    "destination": "/what-are-binance-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/what-are-ethereum-gas-fees/",
+    "destination": "/what-are-ethereum-gas-fees",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/terms-of-service/",
+    "destination": "/terms-of-service",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/new-home/",
+    "destination": "/new-home",
+    "permanent": true,
+    "status": "cleanup"
+  },
+  {
+    "source": "/about-us/",
+    "destination": "/about-us",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/aptos-gas-fees-calculator-advanced/",
+    "destination": "/aptos-gas-fees-calculator-advanced",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/ethereum-blockchain/",
+    "destination": "/ethereum-blockchain",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/",
+    "destination": "/newhome",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/subscribe/",
+    "destination": "/subscribe",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/gasfees-org/",
+    "destination": "/gasfees-org",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/books-%f0%9f%93%9a/",
+    "destination": "/books-%f0%9f%93%9a",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/gas-fees-chart/",
+    "destination": "/gas-fees-chart",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/glossary/",
+    "destination": "/glossary",
+    "permanent": true,
+    "status": "preserve"
+  },
+  {
+    "source": "/contributors/",
+    "destination": "/contributors",
+    "permanent": true,
+    "status": "consolidate"
+  },
+  {
+    "source": "/what-are-crypto-gas-fees/",
+    "destination": "/what-are-crypto-gas-fees",
+    "permanent": true,
+    "status": "consolidate"
+  }
+]

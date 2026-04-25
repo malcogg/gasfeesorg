@@ -1,0 +1,142 @@
+{
+  "generatedAt": "2026-04-25T23:01:57.943Z",
+  "totals": {
+    "records": 127,
+    "redirects": 127,
+    "preserve": 94,
+    "consolidate": 27,
+    "cleanup": 6,
+    "noindex": 0
+  },
+  "issues": {
+    "missingTitle": [
+      "https://gasfees.org/subscribe/"
+    ],
+    "missingDescription": [
+      "https://gasfees.org/how-gas-fees-affect-your-crypto-investments/",
+      "https://gasfees.org/real-time-gas-fee-trackers-do-you-need-one/",
+      "https://gasfees.org/simple-strategies-for-predicting-gas-fee-spikes/",
+      "https://gasfees.org/comparing-gas-fees-ethereum-vs-binance-smart-chain/",
+      "https://gasfees.org/why-gas-fees-matter-a-beginners-guide/",
+      "https://gasfees.org/new-home/"
+    ],
+    "emptyBody": [
+      "https://gasfees.org/how-gas-fees-affect-your-crypto-investments/",
+      "https://gasfees.org/real-time-gas-fee-trackers-do-you-need-one/",
+      "https://gasfees.org/simple-strategies-for-predicting-gas-fee-spikes/",
+      "https://gasfees.org/comparing-gas-fees-ethereum-vs-binance-smart-chain/",
+      "https://gasfees.org/why-gas-fees-matter-a-beginners-guide/",
+      "https://gasfees.org/new-home/"
+    ],
+    "thinBody": [
+      {
+        "url": "https://gasfees.org/how-to-speed-up-or-cancel-a-pending-transaction/",
+        "wordCount": 426
+      },
+      {
+        "url": "https://gasfees.org/what-is-kadena-gas-fees/",
+        "wordCount": 212
+      },
+      {
+        "url": "https://gasfees.org/what-are-ravencoin-gas-fees/",
+        "wordCount": 308
+      },
+      {
+        "url": "https://gasfees.org/what-are-centrifuge-gas-fees/",
+        "wordCount": 375
+      },
+      {
+        "url": "https://gasfees.org/what-are-zetachain-gas-fees/",
+        "wordCount": 524
+      },
+      {
+        "url": "https://gasfees.org/how-to-avoid-overpaying-for-gas-fees/",
+        "wordCount": 581
+      },
+      {
+        "url": "https://gasfees.org/top-blockchains-with-the-lowest-gas-fees/",
+        "wordCount": 537
+      },
+      {
+        "url": "https://gasfees.org/ways-to-reduce-your-gas-fees-when-trading-crypto/",
+        "wordCount": 519
+      },
+      {
+        "url": "https://gasfees.org/aptos-blockchain/",
+        "wordCount": 363
+      },
+      {
+        "url": "https://gasfees.org/what-is-the-price-of-pulsechain/",
+        "wordCount": 414
+      },
+      {
+        "url": "https://gasfees.org/how-do-i-buy-pulsechain/",
+        "wordCount": 423
+      },
+      {
+        "url": "https://gasfees.org/what-is-the-price-prediction-for-acala-in-2024-2025/",
+        "wordCount": 523
+      },
+      {
+        "url": "https://gasfees.org/cheapest-crypto-to-transfer/",
+        "wordCount": 535
+      },
+      {
+        "url": "https://gasfees.org/canto-gas-fees/",
+        "wordCount": 572
+      },
+      {
+        "url": "https://gasfees.org/how-to-add-acala-blockchain-to-metamask/",
+        "wordCount": 333
+      },
+      {
+        "url": "https://gasfees.org/eip-4844-explained-ethereum-latest-proposal-reduce-gas-fees-boost-scalability/",
+        "wordCount": 598
+      },
+      {
+        "url": "https://gasfees.org/what-networks-are-layer-1-l1-or-layer-2-l2/",
+        "wordCount": 562
+      },
+      {
+        "url": "https://gasfees.org/terms-of-service/",
+        "wordCount": 485
+      },
+      {
+        "url": "https://gasfees.org/about-us/",
+        "wordCount": 212
+      },
+      {
+        "url": "https://gasfees.org/aptos-gas-fees-calculator-advanced/",
+        "wordCount": 179
+      },
+      {
+        "url": "https://gasfees.org/ethereum-blockchain/",
+        "wordCount": 30
+      },
+      {
+        "url": "https://gasfees.org/",
+        "wordCount": 412
+      },
+      {
+        "url": "https://gasfees.org/subscribe/",
+        "wordCount": 142
+      },
+      {
+        "url": "https://gasfees.org/books-%f0%9f%93%9a/",
+        "wordCount": 189
+      },
+      {
+        "url": "https://gasfees.org/gas-fees-chart/",
+        "wordCount": 27
+      },
+      {
+        "url": "https://gasfees.org/contributors/",
+        "wordCount": 300
+      },
+      {
+        "url": "https://gasfees.org/what-are-crypto-gas-fees/",
+        "wordCount": 279
+      }
+    ]
+  }
+}

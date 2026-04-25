@@ -1,0 +1,32 @@
+{
+  "name": "gasfeesorg",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "postbuild": "pagefind --site .next/server/app --output-path public/pagefind --glob \"**/*.html\" || echo \"Pagefind index skipped for this build output\"",
+    "typecheck": "tsc --noEmit",
+    "start": "next start",
+    "lint": "eslint",
+    "wp:import": "node scripts/wordpress/import.mjs",
+    "wp:validate": "node scripts/wordpress/validate.mjs"
+  },
+  "dependencies": {
+    "next": "16.2.4",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.4",
+    "pagefind": "^1.5.2",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
