@@ -57,7 +57,14 @@ export default function Home() {
         />
         <div className="mt-8 grid gap-5 md:grid-cols-3">
           {featuredPosts.map((post) => (
-            <ContentCard key={post.slug} eyebrow="Guide" title={post.title} excerpt={post.excerpt} href={`/${post.slug}`} />
+            <ContentCard
+              key={post.slug}
+              eyebrow={post.categories[0] ?? "Guide"}
+              title={post.title}
+              excerpt={post.excerpt}
+              href={`/${post.slug}`}
+              image={post.image}
+            />
           ))}
         </div>
       </section>

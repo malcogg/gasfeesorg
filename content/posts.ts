@@ -1,168 +1,90 @@
+import wordpressCategories from "@/docs/migration/import/wordpress-categories.json";
+import wordpressPosts from "@/docs/migration/import/wordpress-posts.json";
+import wordpressTags from "@/docs/migration/import/wordpress-tags.json";
 import { postSchema, type Post } from "@/lib/content/schemas";
 
-const rawPosts = [
-  {
-    sourceId: 32,
-    slug: "what-are-ethereum-gas-fees",
-    title: "What Are Ethereum Gas Fees?",
-    excerpt:
-      "A practical guide to Ethereum gas fees, gwei, network congestion, and ways to reduce transaction costs.",
-    body: [
-      "Ethereum gas fees are the transaction costs paid to use the Ethereum network. They compensate validators for processing transfers, smart contract interactions, swaps, NFT mints, and other on-chain actions.",
-      "The total cost depends on gas used, base fee, and priority fee. Simple ETH transfers usually use less gas than DeFi swaps or contract-heavy interactions.",
-      "Users can reduce costs by transacting during quieter periods, using reputable Layer 2 networks, checking fee estimates before signing, and avoiding unnecessary contract interactions.",
-    ],
-    publishedAt: "2023-12-09",
-    updatedAt: "2025-06-03",
-    author: "Mr. GasMan",
-    categories: ["Ethereum", "Gas Fees"],
-    tags: ["ethereum", "gwei", "blockchain fees"],
-    related: ["gwei-tracking-guide", "understanding-eth-gas-fees-a-technical-overview"],
-    cleanupStatus: "preserve",
-    seo: {
-      description:
-        "Learn how Ethereum gas fees work, why they change, and how to reduce transaction costs with timing, wallets, and Layer 2 networks.",
-    },
-  },
-  {
-    sourceId: 4923,
-    slug: "understanding-eth-gas-fees-a-technical-overview",
-    title: "Understanding ETH Gas Fees: A Technical Overview",
-    excerpt:
-      "A technical overview of Ethereum fee mechanics, EIP-1559, base fees, priority fees, and scaling paths.",
-    body: [
-      "Ethereum fees changed meaningfully with EIP-1559. Instead of a simple auction, each block includes a protocol-set base fee plus an optional priority fee.",
-      "The base fee rises when blocks are full and falls when demand eases. This gives users a clearer model for estimating costs while still reflecting real-time network demand.",
-      "Layer 2 networks reduce cost pressure by executing activity off the Ethereum mainnet while preserving settlement or security relationships with Ethereum.",
-    ],
-    publishedAt: "2024-12-21",
-    updatedAt: "2024-12-21",
-    author: "Mr. GasMan",
-    categories: ["Ethereum"],
-    tags: ["eip-1559", "layer 2", "ethereum"],
-    related: ["what-are-ethereum-gas-fees", "gwei-tracking-guide"],
-    cleanupStatus: "preserve",
-    seo: {},
-  },
-  {
-    sourceId: 5504,
-    slug: "gwei-tracking-guide",
-    title: "Understanding Gwei Tracking: A Guide to Ethereum Gas Fees",
-    excerpt:
-      "How to read gwei, compare fee levels, and avoid overpaying when Ethereum demand changes.",
-    body: [
-      "Gwei is the common unit used to quote Ethereum gas prices. One gwei is a tiny fraction of ETH, which makes fee quotes easier to scan.",
-      "Tracking gwei helps users decide whether a transaction is urgent enough to submit now or cheap enough to delay.",
-      "A good fee workflow compares current wallet estimates, recent network demand, and whether a Layer 2 option can complete the same task for less.",
-    ],
-    publishedAt: "2024-12-23",
-    updatedAt: "2024-12-23",
-    author: "Mr. GasMan",
-    categories: ["Ethereum", "Gas Fees"],
-    tags: ["gwei", "ethereum", "gas tracker"],
-    related: ["what-are-ethereum-gas-fees"],
-    cleanupStatus: "preserve",
-    seo: {},
-  },
-  {
-    sourceId: 100,
-    slug: "what-are-aptos-gas-fees",
-    title: "What Are Aptos Gas Fees?",
-    excerpt:
-      "A guide to Aptos gas, storage costs, payload size, and how Aptos transaction fees are estimated.",
-    body: [
-      "Aptos gas fees account for execution, storage, and transaction payload costs. This makes fee estimation different from Ethereum-style gas alone.",
-      "Users should understand both instruction gas and storage gas when estimating complex Aptos actions.",
-      "The Aptos calculator in this rebuild is designed to make those inputs easier to reason about before signing a transaction.",
-    ],
-    publishedAt: "2023-12-10",
-    updatedAt: "2024-01-10",
-    author: "Mr. GasMan",
-    categories: ["Aptos", "Gas Fees"],
-    tags: ["aptos", "storage gas", "calculator"],
-    related: ["understanding-gas-and-storage-fees-on-aptos-blockchain"],
-    cleanupStatus: "preserve",
-    seo: {},
-  },
-  {
-    sourceId: 1082,
-    slug: "cheapest-crypto-to-transfer",
-    title: "What Is the Cheapest Crypto Network for Gas Fees?",
-    excerpt:
-      "How to compare low-fee crypto networks without ignoring security, liquidity, exchange support, and confirmation reliability.",
-    body: [
-      "The cheapest network is not always the best network. Low fees matter, but so do liquidity, wallet support, exchange support, and the risk of using a network you do not understand.",
-      "For small transfers, users should compare the full path: withdrawal fee, bridge fee, network fee, destination support, and swap cost.",
-      "GasFees.org should treat cheapest-transfer content as a decision guide rather than a hype list.",
-    ],
-    publishedAt: "2024-02-12",
-    updatedAt: "2024-02-12",
-    author: "Mr. GasMan",
-    categories: ["Gas Fees"],
-    tags: ["cheap gas fees", "blockchain costs"],
-    related: ["top-blockchains-with-the-lowest-gas-fees"],
-    cleanupStatus: "preserve",
-    seo: {},
-  },
-  {
-    sourceId: 2874,
-    slug: "ways-to-reduce-your-gas-fees-when-trading-crypto",
-    title: "Ways to Reduce Your Gas Fees When Trading Crypto",
-    excerpt:
-      "Simple strategies for timing, routing, wallets, and chain selection when transaction costs are high.",
-    body: [
-      "Reducing gas fees starts with knowing whether a transaction is urgent. Delaying non-urgent activity can save money during congested periods.",
-      "Users can also compare Layer 2 networks, batch actions when appropriate, avoid unnecessary approvals, and use wallet estimates carefully.",
-      "The strongest guidance should explain tradeoffs clearly: cheaper routes can introduce bridge risk, liquidity issues, or extra complexity.",
-    ],
-    publishedAt: "2024-06-26",
-    updatedAt: "2024-06-26",
-    author: "Mr. GasMan",
-    categories: ["Gas Fees"],
-    tags: ["reduce gas fees", "trading"],
-    related: ["how-to-avoid-overpaying-for-gas-fees"],
-    cleanupStatus: "preserve",
-    seo: {},
-  },
-  {
-    sourceId: 2888,
-    slug: "what-influences-gas-fees-a-quick-guide",
-    title: "What Influences Gas Fees? A Quick Guide",
-    excerpt:
-      "Network demand, transaction complexity, fee markets, wallet settings, and timing all affect crypto gas fees.",
-    body: [
-      "Gas fees rise and fall because blockspace is limited. When more users want transactions included quickly, fees tend to increase.",
-      "Complex contract calls usually cost more than simple token transfers because they use more computation and storage.",
-      "A useful gas fee guide should connect these mechanics to user choices: wait, speed up, cancel, bridge, or use a different chain.",
-    ],
-    publishedAt: "2024-06-26",
-    updatedAt: "2024-06-26",
-    author: "Mr. GasMan",
-    categories: ["Gas Fees"],
-    tags: ["blockchain fees", "network congestion"],
-    related: ["tips-for-managing-high-gas-fees"],
-    cleanupStatus: "preserve",
-    seo: {},
-  },
-  {
-    sourceId: 4286,
-    slug: "the-galactic-guide-to-top-100-public-blockchains",
-    title: "The Guide to Top Public Blockchains",
-    excerpt:
-      "A broad blockchain discovery page that should become a curated blockchain index instead of a noisy mega-post.",
-    body: [
-      "The current public blockchains guide is a useful discovery asset, but it should become structured data that powers the blockchain index.",
-      "Turning this into curated blockchain pages improves internal linking, search relevance, and editorial maintenance.",
-    ],
-    publishedAt: "2024-12-05",
-    updatedAt: "2024-12-05",
-    author: "Mr. GasMan",
-    categories: ["Gas Fees"],
-    tags: ["blockchains", "public chains"],
-    related: ["what-networks-are-layer-1-l1-or-layer-2-l2"],
-    cleanupStatus: "consolidate",
-    seo: {},
-  },
-] satisfies Post[];
+type ImportedPost = {
+  sourceId: number;
+  slug: string;
+  title: string;
+  excerpt?: string;
+  publishedAt: string;
+  updatedAt: string;
+  cleanupStatus: Post["cleanupStatus"];
+  categories?: number[];
+  tags?: number[];
+  seo?: {
+    title?: string;
+    description?: string;
+    canonical?: string;
+  };
+  html: string;
+};
 
-export const posts = rawPosts.map((post) => postSchema.parse(post));
+type ImportedTerm = {
+  id: number;
+  name: string;
+  slug: string;
+};
+
+const categoryNames = new Map((wordpressCategories as ImportedTerm[]).map((term) => [term.id, term.name]));
+const tagNames = new Map((wordpressTags as ImportedTerm[]).map((term) => [term.id, term.name]));
+
+function stripHtml(value = "") {
+  return value
+    .replace(/<script[\s\S]*?<\/script>/gi, " ")
+    .replace(/<style[\s\S]*?<\/style>/gi, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&#8217;/g, "'")
+    .replace(/&amp;/g, "&")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function rewriteWordPressHtml(html: string) {
+  return html
+    .replace(/https:\/\/gasfees\.org\/wp-content\//g, "https://old.gasfees.org/wp-content/")
+    .replace(/http:\/\/gasfees\.org\/wp-content\//g, "https://old.gasfees.org/wp-content/")
+    .replace(/href=["']https:\/\/gasfees\.org\/(?!wp-content\/)([^"']*)["']/g, 'href="/$1"')
+    .replace(/href=["']http:\/\/gasfees\.org\/(?!wp-content\/)([^"']*)["']/g, 'href="/$1"')
+    .replace(/<script[\s\S]*?<\/script>/gi, "")
+    .replace(/<iframe[\s\S]*?<\/iframe>/gi, "")
+    .replace(/<svg[\s\S]*?<\/svg>/gi, "");
+}
+
+function extractFirstImage(html: string) {
+  const imgMatch = html.match(/<img[^>]+src=["']([^"']+)["'][^>]*>/i);
+  if (!imgMatch?.[1]) return undefined;
+  const altMatch = imgMatch[0].match(/alt=["']([^"']*)["']/i);
+
+  return {
+    src: imgMatch[1],
+    alt: altMatch?.[1] || undefined,
+  };
+}
+
+function termNames(ids: number[] | undefined, lookup: Map<number, string>) {
+  return (ids ?? []).map((id) => lookup.get(id)).filter((name) => name !== undefined);
+}
+
+export const posts = (wordpressPosts as ImportedPost[]).map((post) => {
+  const html = rewriteWordPressHtml(post.html);
+
+  return postSchema.parse({
+    sourceId: post.sourceId,
+    slug: post.slug,
+    title: post.title,
+    excerpt: post.excerpt || stripHtml(html).slice(0, 220),
+    html,
+    image: extractFirstImage(html),
+    publishedAt: post.publishedAt,
+    updatedAt: post.updatedAt,
+    author: "Mr. GasMan",
+    categories: termNames(post.categories, categoryNames),
+    tags: termNames(post.tags, tagNames),
+    related: [],
+    cleanupStatus: post.cleanupStatus,
+    seo: post.seo ?? {},
+  });
+});

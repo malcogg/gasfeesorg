@@ -50,13 +50,19 @@ export function postsForBlockchain(slug: string) {
 }
 
 export function getSearchDocuments() {
+  const stripHtml = (value: string) =>
+    value
+      .replace(/<[^>]+>/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+
   return [
     ...posts.map((post) => ({
       type: "Article",
       title: post.title,
       excerpt: post.excerpt,
       href: `/${post.slug}`,
-      text: [post.title, post.excerpt, ...post.body, ...post.categories, ...post.tags].join(" "),
+      text: [post.title, post.excerpt, stripHtml(post.html), ...post.categories, ...post.tags].join(" "),
     })),
     ...topics.map((topic) => ({
       type: "Topic",

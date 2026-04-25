@@ -41,7 +41,14 @@ export default async function TopicPage({ params }: { params: Promise<{ slug: st
       <p className="mt-5 max-w-3xl text-lg leading-8 text-muted">{topic.intent}</p>
       <div className="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
         {relatedPosts.map((post) => (
-          <ContentCard key={post.slug} eyebrow="Guide" title={post.title} excerpt={post.excerpt} href={`/${post.slug}`} />
+          <ContentCard
+            key={post.slug}
+            eyebrow={post.categories[0] ?? "Guide"}
+            title={post.title}
+            excerpt={post.excerpt}
+            href={`/${post.slug}`}
+            image={post.image}
+          />
         ))}
       </div>
     </PageShell>

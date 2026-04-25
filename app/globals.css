@@ -75,3 +75,88 @@ a {
 .content-flow ol {
   list-style: decimal;
 }
+
+.wordpress-content {
+  color: var(--foreground);
+}
+
+.wordpress-content > * + *,
+.wordpress-content p + p,
+.wordpress-content p + ul,
+.wordpress-content p + ol,
+.wordpress-content ul + p,
+.wordpress-content ol + p {
+  margin-top: 1rem;
+}
+
+.wordpress-content h2,
+.wordpress-content h3,
+.wordpress-content h4 {
+  margin-top: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.wordpress-content h2 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+}
+
+.wordpress-content h3 {
+  font-size: 1.35rem;
+}
+
+.wordpress-content h4 {
+  font-size: 1.1rem;
+}
+
+.wordpress-content p,
+.wordpress-content li,
+.wordpress-content figcaption {
+  color: var(--muted);
+  line-height: 1.8;
+}
+
+.wordpress-content a {
+  color: var(--accent-strong);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.wordpress-content ul,
+.wordpress-content ol {
+  margin-top: 1rem;
+  padding-left: 1.25rem;
+}
+
+.wordpress-content ul {
+  list-style: disc;
+}
+
+.wordpress-content ol {
+  list-style: decimal;
+}
+
+.wordpress-content img {
+  margin: 2rem auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 1.5rem;
+  border: 1px solid var(--line);
+}
+
+.wordpress-content figure {
+  margin: 2rem 0;
+}
+
+.wordpress-content figcaption {
+  margin-top: -1rem;
+  text-align: center;
+  font-size: 0.875rem;
+}
+
+.wordpress-content .elementor-widget-share-buttons,
+.wordpress-content .elementor-widget-progress-tracker,
+.wordpress-content .elementor-author-box,
+.wordpress-content .elementor-widget-breadcrumbs {
+  display: none;
+}

@@ -7,7 +7,14 @@ export const postSchema = z.object({
   slug: z.string(),
   title: z.string(),
   excerpt: z.string(),
-  body: z.array(z.string()),
+  body: z.array(z.string()).default([]),
+  html: z.string().default(""),
+  image: z
+    .object({
+      src: z.string(),
+      alt: z.string().optional(),
+    })
+    .optional(),
   publishedAt: z.string(),
   updatedAt: z.string(),
   author: z.string(),

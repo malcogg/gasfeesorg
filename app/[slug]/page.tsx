@@ -41,13 +41,21 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       <div className="mt-8 flex flex-wrap gap-3 text-sm text-muted">
         <span>By {post.author}</span>
         <span>Updated {post.updatedAt}</span>
-        <span className="rounded-full bg-accent-soft px-3 py-1 text-accent-strong">{post.cleanupStatus}</span>
       </div>
-      <div className="content-flow mt-10 border-y border-line py-10">
-        {post.body.map((paragraph) => (
-          <p key={paragraph}>{paragraph}</p>
-        ))}
-      </div>
+      {post.image ? (
+        // Imported WordPress images remain remote until the media migration is finalized.
+        // eslint-disable-next-line @next/next/no-img-element
+        <img
+          src={post.image.src}
+          alt={post.image.alt ?? ""}
+          className="mt-10 aspect-[16/9] w-full rounded-3xl border border-line object-cover"
+          fetchPriority="high"
+        />
+      ) : null}
+      <div
+        className="wordpress-content mt-10 border-y border-line py-10"
+        dangerouslySetInnerHTML={{ __html: post.html }}
+      />
       <aside className="mt-10 rounded-3xl border border-line bg-surface-alt p-6">
         <h2 className="text-xl font-semibold">Related reading</h2>
         <div className="mt-4 grid gap-3">
