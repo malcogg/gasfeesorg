@@ -39,4 +39,6 @@ Use the default Vercel Next.js settings:
 - Build command: `npm run build`
 - Output directory: default
 
+Production domain target: `https://gasfees.org`.
+
 Once connected to GitHub, v0 can use the repo as the implementation target for page and component iterations.
