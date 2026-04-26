@@ -23,7 +23,7 @@ export function SearchBox({
     <form
       role="search"
       onSubmit={onSubmit}
-      className={`flex w-full items-center rounded-full border border-line bg-surface shadow-sm transition focus-within:border-accent ${
+      className={`mx-auto flex w-full items-center rounded-full border border-line bg-surface shadow-sm transition focus-within:border-accent ${
         large ? "max-w-3xl p-2" : "max-w-xl p-1.5"
       }`}
     >

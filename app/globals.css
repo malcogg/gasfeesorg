@@ -148,6 +148,42 @@ a {
   margin: 2rem 0;
 }
 
+.wordpress-content .wordpress-image-placeholder {
+  display: grid;
+  min-height: 14rem;
+  place-items: center;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 1.5rem;
+  background: linear-gradient(135deg, #fffaf0 0%, var(--accent-soft) 55%, var(--surface-alt) 100%);
+  text-align: center;
+}
+
+.wordpress-content .wordpress-image-placeholder div {
+  display: grid;
+  gap: 0.35rem;
+  padding: 2rem;
+}
+
+.wordpress-content .wordpress-image-placeholder span {
+  font-family: var(--font-geist-mono);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent-strong);
+}
+
+.wordpress-content .wordpress-image-placeholder strong {
+  font-size: clamp(1.25rem, 3vw, 1.75rem);
+  line-height: 1.2;
+  color: var(--accent-strong);
+}
+
+.wordpress-content .wordpress-image-placeholder small {
+  color: var(--muted);
+}
+
 .wordpress-content figcaption {
   margin-top: -1rem;
   text-align: center;

@@ -53,6 +53,23 @@ function rewriteWordPressHtml(html: string) {
     .replace(/<svg[\s\S]*?<\/svg>/gi, "");
 }
 
+function escapeHtml(value = "") {
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function replaceImportedImages(html: string) {
+  return html.replace(/<img[^>]*>/gi, (imageTag) => {
+    const altMatch = imageTag.match(/alt=["']([^"']*)["']/i);
+    const alt = escapeHtml(altMatch?.[1] || "Imported article image");
+
+    return `<figure class="wordpress-image-placeholder" role="img" aria-label="${alt}"><div><span>GasFees.org</span><strong>Image update in progress</strong><small>The original WordPress media is being reconnected.</small></div></figure>`;
+  });
+}
+
 function extractFirstImage(html: string) {
   const imgMatch = html.match(/<img[^>]+src=["']([^"']+)["'][^>]*>/i);
   if (!imgMatch?.[1]) return undefined;
@@ -69,7 +86,8 @@ function termNames(ids: number[] | undefined, lookup: Map<number, string>) {
 }
 
 export const posts = (wordpressPosts as ImportedPost[]).map((post) => {
-  const html = rewriteWordPressHtml(post.html);
+  const rewrittenHtml = rewriteWordPressHtml(post.html);
+  const html = replaceImportedImages(rewrittenHtml);
 
   return postSchema.parse({
     sourceId: post.sourceId,
@@ -77,7 +95,7 @@ export const posts = (wordpressPosts as ImportedPost[]).map((post) => {
     title: post.title,
     excerpt: post.excerpt || stripHtml(html).slice(0, 220),
     html,
-    image: extractFirstImage(html),
+    image: extractFirstImage(rewrittenHtml),
     publishedAt: post.publishedAt,
     updatedAt: post.updatedAt,
     author: "Mr. GasMan",

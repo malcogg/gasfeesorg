@@ -42,7 +42,7 @@ export default function Home() {
       </section>
 
       <section className="border-y border-line bg-surface">
-        <div className="mx-auto grid max-w-7xl gap-8 px-5 py-14 md:grid-cols-3">
+        <div className="mx-auto grid max-w-5xl gap-8 px-5 py-14 md:grid-cols-2">
           {tools.map((tool) => (
             <ContentCard key={tool.slug} eyebrow={tool.status} title={tool.name} excerpt={tool.description} href={tool.href} />
           ))}

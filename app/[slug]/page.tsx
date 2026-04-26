@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import { ContentImage } from "@/components/content-image";
 import { JsonLd } from "@/components/json-ld";
 import { getPost, posts, postsForSlugs } from "@/lib/content";
 import { buildMetadata } from "@/lib/seo/metadata";
@@ -42,16 +43,14 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         <span>By {post.author}</span>
         <span>Updated {post.updatedAt}</span>
       </div>
-      {post.image ? (
-        // Imported WordPress images remain remote until the media migration is finalized.
-        // eslint-disable-next-line @next/next/no-img-element
-        <img
-          src={post.image.src}
-          alt={post.image.alt ?? ""}
-          className="mt-10 aspect-[16/9] w-full rounded-3xl border border-line object-cover"
-          fetchPriority="high"
-        />
-      ) : null}
+      <ContentImage
+        src={post.image?.src}
+        alt={post.image?.alt}
+        title={post.title}
+        eyebrow={post.categories[0] ?? "Guide"}
+        className="mt-10 w-full object-cover"
+        priority
+      />
       <div
         className="wordpress-content mt-10 border-y border-line py-10"
         dangerouslySetInnerHTML={{ __html: post.html }}

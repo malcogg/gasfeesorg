@@ -11,19 +11,11 @@ const rawTools = [
   },
   {
     slug: "gas-fee-charts",
-    name: "Gas Fee Charts",
+    name: "Multichain Gas Fees Tracker",
     description:
-      "A tracker hub for comparing gas fee concepts, chain pages, and future live fee data integrations.",
-    status: "beta",
+      "Compare live EVM gas fees across Etherscan API V2 gas-oracle-supported chains.",
+    status: "live",
     href: "/charts",
-  },
-  {
-    slug: "wordpress-import-validator",
-    name: "WordPress Import Validator",
-    description:
-      "Content migration tooling that flags thin posts, missing metadata, broken links, and redirect decisions.",
-    status: "planned",
-    href: "/tools",
   },
 ] satisfies Tool[];
 
