@@ -42,7 +42,7 @@ export default function Home() {
       </section>
 
       <section className="border-y border-line bg-surface">
-        <div className="mx-auto grid max-w-7xl gap-8 px-5 py-14 md:grid-cols-3">
+        <div className="mx-auto grid max-w-5xl gap-8 px-5 py-14 md:grid-cols-2">
           {tools.map((tool) => (
             <ContentCard key={tool.slug} eyebrow={tool.status} title={tool.name} excerpt={tool.description} href={tool.href} />
           ))}
@@ -57,7 +57,14 @@ export default function Home() {
         />
         <div className="mt-8 grid gap-5 md:grid-cols-3">
           {featuredPosts.map((post) => (
-            <ContentCard key={post.slug} eyebrow="Guide" title={post.title} excerpt={post.excerpt} href={`/${post.slug}`} />
+            <ContentCard
+              key={post.slug}
+              eyebrow={post.categories[0] ?? "Guide"}
+              title={post.title}
+              excerpt={post.excerpt}
+              href={`/${post.slug}`}
+              image={post.image}
+            />
           ))}
         </div>
       </section>

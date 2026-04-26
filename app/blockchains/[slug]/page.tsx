@@ -57,7 +57,14 @@ export default async function BlockchainPage({ params }: { params: Promise<{ slu
       </div>
       <div className="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
         {relatedPosts.map((post) => (
-          <ContentCard key={post.slug} eyebrow="Related guide" title={post.title} excerpt={post.excerpt} href={`/${post.slug}`} />
+          <ContentCard
+            key={post.slug}
+            eyebrow="Related guide"
+            title={post.title}
+            excerpt={post.excerpt}
+            href={`/${post.slug}`}
+            image={post.image}
+          />
         ))}
       </div>
     </PageShell>

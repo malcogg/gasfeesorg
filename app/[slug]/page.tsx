@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import { ContentImage } from "@/components/content-image";
 import { JsonLd } from "@/components/json-ld";
 import { getPost, posts, postsForSlugs } from "@/lib/content";
 import { buildMetadata } from "@/lib/seo/metadata";
@@ -41,13 +42,19 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       <div className="mt-8 flex flex-wrap gap-3 text-sm text-muted">
         <span>By {post.author}</span>
         <span>Updated {post.updatedAt}</span>
-        <span className="rounded-full bg-accent-soft px-3 py-1 text-accent-strong">{post.cleanupStatus}</span>
       </div>
-      <div className="content-flow mt-10 border-y border-line py-10">
-        {post.body.map((paragraph) => (
-          <p key={paragraph}>{paragraph}</p>
-        ))}
-      </div>
+      <ContentImage
+        src={post.image?.src}
+        alt={post.image?.alt}
+        title={post.title}
+        eyebrow={post.categories[0] ?? "Guide"}
+        className="mt-10 w-full object-cover"
+        priority
+      />
+      <div
+        className="wordpress-content mt-10 border-y border-line py-10"
+        dangerouslySetInnerHTML={{ __html: post.html }}
+      />
       <aside className="mt-10 rounded-3xl border border-line bg-surface-alt p-6">
         <h2 className="text-xl font-semibold">Related reading</h2>
         <div className="mt-4 grid gap-3">

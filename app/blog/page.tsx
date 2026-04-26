@@ -16,7 +16,7 @@ export default function BlogPage() {
       <SectionHeader
         eyebrow="Blog"
         title="Readable gas fee guides for practical crypto decisions."
-        description="A cleaner editorial index for preserved WordPress posts and future AI-assisted publishing."
+        description="A cleaner editorial index for imported WordPress posts and future AI-assisted publishing."
       />
       <div className="mt-8 flex flex-wrap gap-2">
         {topics.map((topic) => (
@@ -27,7 +27,14 @@ export default function BlogPage() {
       </div>
       <div className="mt-10 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
         {posts.map((post) => (
-          <ContentCard key={post.slug} eyebrow={post.cleanupStatus} title={post.title} excerpt={post.excerpt} href={`/${post.slug}`} />
+          <ContentCard
+            key={post.slug}
+            eyebrow={post.categories[0] ?? "Guide"}
+            title={post.title}
+            excerpt={post.excerpt}
+            href={`/${post.slug}`}
+            image={post.image}
+          />
         ))}
       </div>
     </PageShell>
